@@ -1,0 +1,2893 @@
+© ISO 2016
+Sistemas de gestión antisoborno — 
+Requisitos con orientación para su uso
+Anti-bribery management systems — Requirements with guidance for 
+use
+Systèmes de management anti-corruption — Exigences et 
+recommandations de mise en oeuvre
+NORMA 
+INTERNACIONAL
+ISO 
+37001
+Primera edición 
+2016-10-15
+Número de referencia
+ISO 37001:2016 (traducción oficial)
+Traducción oficial
+Official translation
+Traduction officielle
+Publicado por la Secretaría Central de ISO en Ginebra, Suiza, como 
+traducción oficial en español avalada por el Grupo de Trabajo Spanish 
+Translation Task Force (STTF), que ha certificado la conformidad en 
+relación con las versiones inglesa y francesa.
+Licensed to SOLUCIONES TECNOLÓGICAS EN GESTIÓN S.C. / FRANCISCO GUTIÉRREZ (fgutierrez@stratega.biz) 
+ISO Store Order: OP-561974 / Downloaded: 2021-11-11 
+Single user licence only, copying and networking prohibited.
+﻿
+ISO 37001:2016 (traducción oficial)
+﻿
+Traducción oficial/Official translation/Traduction officielle
+ii
+© ISO 2016 – Todos los derechos reservados
+DOCUMENTO PROTEGIDO POR COPYRIGHT
+©  ISO 2016, Publicado en Suiza
+Reservados los derechos de reproducción. Salvo prescripción diferente, no podrá reproducirse ni utilizarse ninguna parte de 
+esta publicación bajo ninguna forma y por ningún medio, electrónico o mecánico, incluidos el fotocopiado, o la publicación en 
+Internet o una Intranet, sin la autorización previa por escrito. La autorización puede solicitarse a ISO en la siguiente dirección o 
+al organismo miembro de ISO en el país solicitante.
+ISO copyright office
+Ch. de Blandonnet 8 • CP 401
+CH-1214 Vernier, Geneva, Switzerland
+Tel. +41 22 749 01 11
+Fax +41 22 749 09 47
+copyright@iso.org
+www.iso.org
+Licensed to SOLUCIONES TECNOLÓGICAS EN GESTIÓN S.C. / FRANCISCO GUTIÉRREZ (fgutierrez@stratega.biz) 
+ISO Store Order: OP-561974 / Downloaded: 2021-11-11 
+Single user licence only, copying and networking prohibited.
+﻿
+ISO 37001:2016 (traducción oficial)
+﻿
+Prólogo................................................................................................................................................................................................................................................v
+Introducción..............................................................................................................................................................................................................................vii
+1	
+Objeto y campo de aplicación..................................................................................................................................................................1
+2	
+Referencias normativas..................................................................................................................................................................................1
+3	
+Términos y definiciones.................................................................................................................................................................................2
+4	
+Contexto de la organización.......................................................................................................................................................................6
+4.1	
+Comprensión de la organización y de su contexto....................................................................................................6
+4.2	
+Comprensión de las necesidades y expectativas de las partes interesadas........................................7
+4.3	
+Determinación del alcance del sistema de gestión antisoborno...................................................................7
+4.4	
+Sistema de gestión antisoborno................................................................................................................................................ 7
+4.5	
+Evaluación del riesgo de soborno............................................................................................................................................ 7
+5	
+Liderazgo.......................................................................................................................................................................................................................8
+5.1	
+Liderazgo y compromiso................................................................................................................................................................. 8
+5.1.1	
+Órgano de gobierno........................................................................................................................................................8
+5.1.2	
+Alta dirección.......................................................................................................................................................................8
+5.2	
+Política antisoborno............................................................................................................................................................................ 9
+5.3	
+Roles, responsabilidades y autoridades en la organización..........................................................................10
+5.3.1	
+Roles y responsabilidades.....................................................................................................................................10
+5.3.2	
+Función de cumplimiento antisoborno......................................................................................................10
+5.3.3	
+Delegación de la toma de decisiones............................................................................................................10
+6	
+Planificación...........................................................................................................................................................................................................11
+6.1	
+Acciones para tratar riesgos y oportunidades...........................................................................................................11
+6.2	
+Objetivos antisoborno y planificación para lograrlos.........................................................................................11
+7	
+Apoyo..............................................................................................................................................................................................................................12
+7.1	
+Recursos.....................................................................................................................................................................................................12
+7.2	
+Competencia............................................................................................................................................................................................12
+7.2.1	
+Generalidades...................................................................................................................................................................12
+7.2.2	
+Proceso de contratación..........................................................................................................................................12
+7.3	
+Toma de conciencia y formación...........................................................................................................................................13
+7.4	
+Comunicación.........................................................................................................................................................................................14
+7.5	
+Información documentada.........................................................................................................................................................14
+7.5.1	
+Generalidades...................................................................................................................................................................14
+7.5.2	
+Creación y actualización..........................................................................................................................................15
+7.5.3	
+Control de la información documentada..................................................................................................15
+8	
+Operación...................................................................................................................................................................................................................15
+8.1	
+Planificación y control operacional.....................................................................................................................................15
+8.2	
+Debida diligencia.................................................................................................................................................................................16
+8.3	
+Controles financieros.......................................................................................................................................................................16
+8.4	
+Controles no financieros...............................................................................................................................................................16
+8.5	
+Implementación de los controles antisoborno por organizaciones controladas y 
+por socios de negocios...................................................................................................................................................................16
+8.6	
+Compromisos antisobornos.......................................................................................................................................................17
+8.7	
+Regalos, hospitalidad, donaciones y beneficios similares...............................................................................17
+8.8	
+Gestión de los controles antisoborno inadecuados...............................................................................................17
+8.9	
+Planteamiento de inquietudes.................................................................................................................................................18
+8.10	
+Investigar y abordar el soborno.............................................................................................................................................18
+9	
+Evaluación del desempeño......................................................................................................................................................................19
+9.1	
+Seguimiento, medición, análisis y evaluación............................................................................................................19
+9.2	
+Auditoría interna.................................................................................................................................................................................19
+9.3	
+Revisión por la dirección..............................................................................................................................................................20
+9.3.1	
+Revisión por la alta dirección..............................................................................................................................20
+Traducción oficial/Official translation/Traduction officielle
+© ISO 2016 – Todos los derechos reservados
+iii
+Índice
+Página
+Licensed to SOLUCIONES TECNOLÓGICAS EN GESTIÓN S.C. / FRANCISCO GUTIÉRREZ (fgutierrez@stratega.biz) 
+ISO Store Order: OP-561974 / Downloaded: 2021-11-11 
+Single user licence only, copying and networking prohibited.
+﻿
+ISO 37001:2016 (traducción oficial)
+﻿
+9.3.2	
+Revisión por el órgano de gobierno..............................................................................................................21
+9.4	
+Revisión por la función de cumplimiento antisoborno......................................................................................21
+10	
+Mejora............................................................................................................................................................................................................................22
+10.1	
+No conformidades y acciones correctivas.....................................................................................................................22
+10.2	
+Mejora continua...................................................................................................................................................................................22
+Anexo A (informativo) Orientación sobre el uso de esta Norma Internacional.....................................................23
+Bibliografía.................................................................................................................................................................................................................................48
+Traducción oficial/Official translation/Traduction officielle
+© ISO 2016 – Todos los derechos reservados
+iv 
+Licensed to SOLUCIONES TECNOLÓGICAS EN GESTIÓN S.C. / FRANCISCO GUTIÉRREZ (fgutierrez@stratega.biz) 
+ISO Store Order: OP-561974 / Downloaded: 2021-11-11 
+Single user licence only, copying and networking prohibited.
+﻿
+ISO 37001:2016 (traducción oficial)
+Prólogo
+ISO (Organización Internacional de Normalización) es una federación mundial de organismos 
+nacionales de normalización (organismos miembros de ISO). El trabajo de preparación de las normas 
+internacionales normalmente se realiza a través de los comités técnicos de ISO. Cada organismo 
+miembro interesado en una materia para la cual se haya establecido un comité técnico, tiene el derecho 
+de estar representado en dicho comité. Las organizaciones internacionales, públicas y privadas, en 
+coordinación con ISO, también participan en el trabajo. ISO colabora estrechamente con la Comisión 
+Electrotécnica Internacional (IEC) en todas las materias de normalización electrotécnica.
+En la Parte 1 de las Directivas ISO/IEC se describen los procedimientos utilizados para desarrollar 
+esta norma y para su mantenimiento posterior. En particular debería tomarse nota de los diferentes 
+criterios de aprobación necesarios para los distintos tipos de documentos ISO. Esta norma se redactó 
+de acuerdo a las reglas editoriales de la Parte 2 de las Directivas ISO/IEC. www​.iso​.org/​directives.
+Se llama la atención sobre la posibilidad de que algunos de los elementos de este documento puedan 
+estar sujetos a derechos de patente. ISO no asume la responsabilidad por la identificación de cualquiera 
+o todos los derechos de patente. Los detalles sobre cualquier derecho de patente identificado durante
+el desarrollo de esta norma se indican en la introducción y/o en la lista ISO de declaraciones de patente
+recibidas. www​.iso​.org/​patents.
+Cualquier nombre comercial utilizado en esta norma es información que se proporciona para comodidad 
+del usuario y no constituye una recomendación.
+Para obtener una explicación sobre el significado de los términos específicos de ISO y expresiones 
+relacionadas con la evaluación de la conformidad, así como información de la adhesión de ISO a los 
+principios de la Organización Mundial del Comercio (OMC) respecto a los Obstáculos Técnicos al 
+Comercio (OTC), véase la siguiente dirección: http://​www​.iso​.org/​iso/​foreword​.html.
+El comité responsable de esta norma es Comité de Proyecto ISO/PC 278, Sistemas de gestión antisoborno.
+﻿
+Traducción oficial/Official translation/Traduction officielle
+© ISO 2016 – Todos los derechos reservados
+v
+Licensed to SOLUCIONES TECNOLÓGICAS EN GESTIÓN S.C. / FRANCISCO GUTIÉRREZ (fgutierrez@stratega.biz) 
+ISO Store Order: OP-561974 / Downloaded: 2021-11-11 
+Single user licence only, copying and networking prohibited.
+﻿
+ISO 37001:2016 (traducción oficial)
+Prólogo de la versión en español
+Esta Norma Internacional ha sido traducida por el Grupo de Trabajo Spanish Translation Task Force 
+(STTF) del Comité Técnico ISO/PC 278, Sistemas de gestión antisoborno, en el que participan represen­
+tantes de los organismos nacionales de normalización y representantes del sector empresarial de los 
+siguientes países:
+Argentina, Colombia, Costa Rica, Cuba, Ecuador, España, Guatemala, México, Perú y Uruguay.
+Durante la labor del Grupo de Trabajo no se llegó al consenso para la traducción de los términos bribery 
+risk evaluation y bribery risk assesment. Se resolvió que la traducción en español de la norma se acoja a la 
+traducción oficial de la norma en francés, en la que se utiliza una sola traducción para ambos términos.
+﻿
+Traducción oficial/Official translation/Traduction officielle
+vi
+© ISO 2016 – Todos los derechos reservados
+Licensed to SOLUCIONES TECNOLÓGICAS EN GESTIÓN S.C. / FRANCISCO GUTIÉRREZ (fgutierrez@stratega.biz) 
+ISO Store Order: OP-561974 / Downloaded: 2021-11-11 
+Single user licence only, copying and networking prohibited.
+﻿
+ISO 37001:2016 (traducción oficial)
+Introducción
+El soborno es un fenómeno generalizado que plantea serias inquietudes sociales, morales, económicas 
+y políticas, socava el buen gobierno, obstaculiza el desarrollo y distorsiona la competencia. Erosiona la 
+justicia, socava los derechos humanos y es un obstáculo para el alivio de la pobreza. También aumenta 
+el costo al hacer negocios, introduce incertidumbres en las transacciones comerciales, aumenta el costo 
+de los bienes y servicios, disminuye la calidad de los productos y servicios, lo que puede conducir a 
+la pérdida de vidas y bienes, destruye la confianza en las instituciones e interfiere con el correcto y 
+eficiente funcionamiento de los mercados.
+Los gobiernos han hecho progresos en el tratamiento del soborno a través de acuerdos internacionales 
+tales como la Convención para Combatir el Cohecho de Funcionarios Públicos Extranjeros en 
+Transacciones Comerciales Internacionales de la Organización para la Cooperación y el Desarrollo 
+Económicos [15] y la Convención de las Naciones Unidas contra la Corrupción [14] y a través de sus 
+leyes nacionales. En la mayoría de las jurisdicciones, constituye un delito el hecho de que las personas 
+participen en sobornos y hay una tendencia cada vez mayor para hacer que las organizaciones, así como 
+las personas, sean responsables de los sobornos.
+Sin embargo, la ley por sí sola no es suficiente para resolver este problema. Por lo tanto, las organiza­
+ciones tienen la responsabilidad de contribuir proactivamente en la lucha contra el soborno. Esto se 
+puede lograr a través de un sistema de gestión antisoborno, el cual se pretende proporcionar por medio 
+de este documento y a través del compromiso de liderazgo para el establecimiento de una cultura de 
+integridad, transparencia, honestidad y cumplimiento. La naturaleza de la cultura de una organización 
+es crítica para el éxito o el fracaso de un sistema de gestión antisoborno.
+Una organización bien gestionada debe tener una política de cumplimiento que se apoye en sistemas 
+de gestión adecuados que le ayuden a cumplir sus obligaciones legales y sus compromisos con la 
+integridad. Una política antisoborno es un componente de una política global de cumplimiento. La 
+política antisoborno y el sistema de gestión de apoyo ayudan a la organización a evitar o mitigar los 
+costos, riesgos y daños de involucrarse en el soborno, a promover la confianza y la seguridad en las 
+transacciones comerciales y a mejorar su reputación.
+Este documento refleja las buenas prácticas internacionales y puede ser utilizado en todas las juris­
+dicciones. Es aplicable a las organizaciones pequeñas, medianas y grandes en todos los sectores, 
+incluidos los sectores público, privado y sin fines de lucro. Los riesgos de soborno que enfrenta una 
+organización varían en función de factores tales como el tamaño de la organización, los lugares y 
+sectores en los que opera la organización y la naturaleza, magnitud y complejidad de sus actividades. 
+Este documento especifica la implementación por parte de la organización de las políticas, procedi­
+mientos y controles que sean razonables y proporcionales de acuerdo con los riesgos de soborno a los 
+que se enfrenta la organización. El Anexo A proporciona orientación sobre la implementación de los 
+requisitos de este documento.
+La conformidad con este documento no garantiza que el soborno no haya ocurrido o no vaya a ocurrir 
+en relación con la organización, ya que no es posible eliminar por completo el riesgo de soborno. Sin 
+embargo, este documento puede ayudar a la organización a implementar medidas razonables y 
+proporcionales para prevenir, detectar y enfrentar el soborno.
+En este documento, se utilizan las siguientes formas verbales:
+—	 “debe” indica un requisito;
+—	 “debería” indica una recomendación;
+—	 “puede” indica un permiso, una posibilidad o una capacidad;
+La información identificada como “NOTA” se presenta a modo de orientación para la compresión o 
+clarificación del requisito correspondiente.
+Este documento es conforme con los requisitos de ISO para normas de sistemas de gestión. Estos 
+requisitos incluyen una estructura de alto nivel, texto esencial idéntico y términos comunes con 
+﻿
+Traducción oficial/Official translation/Traduction officielle
+© ISO 2016 – Todos los derechos reservados
+vii
+Licensed to SOLUCIONES TECNOLÓGICAS EN GESTIÓN S.C. / FRANCISCO GUTIÉRREZ (fgutierrez@stratega.biz) 
+ISO Store Order: OP-561974 / Downloaded: 2021-11-11 
+Single user licence only, copying and networking prohibited.
+﻿
+ISO 37001:2016 (traducción oficial)
+definiciones esenciales diseñados para beneficiar a los usuarios en la implementación de múltiples 
+normas ISO de sistemas de gestión. Este documento puede ser usado en conjunto con otras normas 
+de sistemas de gestión (por ejemplo, ISO 9001, ISO 14001, ISO/IEC 27001 e ISO 19600), y normas de 
+gestión (por ejemplo, ISO 26000 e ISO 31000).
+﻿
+Traducción oficial/Official translation/Traduction officielle
+viii
+© ISO 2016 – Todos los derechos reservados
+Licensed to SOLUCIONES TECNOLÓGICAS EN GESTIÓN S.C. / FRANCISCO GUTIÉRREZ (fgutierrez@stratega.biz) 
+ISO Store Order: OP-561974 / Downloaded: 2021-11-11 
+Single user licence only, copying and networking prohibited.
+﻿
+Sistemas de gestión antisoborno — Requisitos con 
+orientación para su uso
+1	 Objeto y campo de aplicación
+Este documento especifica los requisitos y proporciona una guía para establecer, implementar, 
+mantener, revisar y mejorar un sistema de gestión antisoborno. El sistema puede ser independiente 
+o puede estar integrado en un sistema de gestión global. En este documento se aborda lo siguiente en 
+relación con las actividades de la organización:
+—	 soborno en los sectores público, privado y sin fines de lucro;
+—	 soborno por parte de la organización;
+—	 soborno por parte de personal de la organización que actúa en nombre de la organización o para su 
+beneficio;
+—	 soborno por parte de socios de negocios de la organización que actúan en nombre de la organiza­ción 
+o para su beneficio;
+—	 soborno a la organización;
+—	 soborno del personal de la organización en relación con las actividades de la organización;
+—	 soborno de los socios de negocios de la organización en relación con las actividades de la organización;
+—	 soborno directo e indirecto (por ejemplo, un soborno ofrecido o aceptado por o a través de un 
+tercero.
+Este documento es aplicable solo para el soborno. En él se establecen los requisitos y se proporciona 
+una guía para un sistema de gestión diseñado para ayudar a una organización a prevenir, detectar y 
+enfrentar al soborno y cumplir con las leyes antisoborno y los compromisos voluntarios aplicables a sus 
+actividades.
+Este documento no aborda específicamente de fraude, carteles y otros delitos de antimonopolio y 
+competencia, el lavado de dinero u otras actividades relacionadas con las prácticas corruptas a pesar de 
+que una organización puede optar por ampliar el alcance del sistema de gestión para incluir este tipo de 
+actividades.
+Los requisitos de este documento son genéricos y se pretende que sean aplicables a todas las organiza­
+ciones (o partes de una organización), independientemente del tipo, tamaño y naturaleza de la actividad, 
+ya sea en los sectores público, privado o sin fines de lucro. El grado de aplicación de estos requisitos 
+depende de los factores especificados en 4.1, 4.2 y 4.5.
+NOTA 1	
+Véase el Capítulo A.2 para orientación.
+NOTA 2	
+Las medidas necesarias para prevenir, detectar y mitigar el riesgo de soborno por parte de la organi­
+zación pueden ser diferentes de las medidas utilizadas para prevenir, detectar y enfrentar al soborno de la 
+organización (de su personal, o socios de negocios que actúan en nombre de la organización). Véase el aparta­
+do A.8.4 para recibir orientación.
+2	 Referencias normativas
+No se citan referencias normativas en este documento.
+NORMA INTERNACIONAL
+ISO 37001:2016 (traducción oficial)
+Traducción oficial/Official translation/Traduction officielle
+© ISO 2016 – Todos los derechos reservados
+1
+Licensed to SOLUCIONES TECNOLÓGICAS EN GESTIÓN S.C. / FRANCISCO GUTIÉRREZ (fgutierrez@stratega.biz) 
+ISO Store Order: OP-561974 / Downloaded: 2021-11-11 
+Single user licence only, copying and networking prohibited.
+﻿
+ISO 37001:2016 (traducción oficial)
+3	 Términos y definiciones
+Para los fines de este documento, se aplican los siguientes términos y definiciones.
+ISO e IEC mantienen bases de datos de términos para su uso en normalización en las siguientes 
+direcciones:
+—	 Plataforma de navegación en línea ISO: disponible en http://​www​.iso​.org/​obp
+—	 IEC Electropedia: disponible en http://​www​.electropedia​.org/​
+3.1
+soborno
+oferta, promesa, entrega, aceptación o solicitud de una ventaja indebida de cualquier valor (que puede 
+ser de naturaleza financiera o no financiera), directamente o indirectamente, e independiente de su 
+ubicación, en violación de la ley aplicable, como incentivo o recompensa para que una persona actúe o 
+deje de actuar en relación con el desempeño (3.16) de las obligaciones de esa persona
+Nota 1 a la entrada: Lo anterior es una definición genérica. El significado del término “soborno” es el definido por 
+las leyes antisoborno aplicables a la organización (3.2) y por el sistema de gestión (3.5) antisoborno diseñado por 
+la organización.
+3.2
+organización
+persona o grupo de personas que tienen sus propias funciones con responsabilidades, autoridades y 
+relaciones para el logro de sus objetivos (3.11)
+Nota 1 a la entrada: El concepto de organización incluye, entre otros, un trabajador independiente, compañía, 
+corporación, firma, empresa, autoridad, sociedad, organización benéfica o institución, o una parte o combinación 
+de estas, ya estén constituidas o no, públicas o privadas.
+Nota 2 a la entrada: Para organizaciones con más de una unidad operativa, una o más de ellas pueden ser definidas 
+como una organización.
+3.3
+parte interesada
+persona u organización (3.2) que puede afectar, verse afectada, o percibirse como afectada por una 
+decisión o actividad
+Nota 1 a la entrada: Una parte interesada puede ser interna o externa a la organización.
+3.4
+requisito
+necesidad que está establecida y es obligatoria
+Nota 1 a la entrada: La definición esencial de “requisito” en normas ISO de sistemas de gestión es “necesidad 
+o expectativa establecida, generalmente implícita u obligatoria”. La parte de los “requisitos generalmente 
+implícitos” no es aplicable en el contexto de gestión antisoborno.
+Nota 2 a la entrada: “Generalmente implícita” significa que es una costumbre o una práctica común de la organi­
+zación o partes interesadas que la necesidad o expectativa bajo consideración es implícita.
+Nota 3 a la entrada: Un requisito específico es aquel que es establecido, por ejemplo, en la información docu­
+mentada.
+3.5
+sistema de gestión
+conjunto de elementos de una organización (3.2) interrelacionados o que interactúan para establecer 
+políticas (3.10) , objetivos (3.11) y procesos (3.15) para lograr estos objetivos
+Nota 1 a la entrada: Un sistema de gestión puede tratar una sola disciplina o varias disciplinas.
+﻿
+Traducción oficial/Official translation/Traduction officielle
+2
+© ISO 2016 – Todos los derechos reservados
+Licensed to SOLUCIONES TECNOLÓGICAS EN GESTIÓN S.C. / FRANCISCO GUTIÉRREZ (fgutierrez@stratega.biz) 
+ISO Store Order: OP-561974 / Downloaded: 2021-11-11 
+Single user licence only, copying and networking prohibited.
+﻿
+ISO 37001:2016 (traducción oficial)
+Nota 2 a la entrada: Los elementos del sistema de gestión establecen la estructura de la organización, los roles y 
+las responsabilidades, la planificación y la operación.
+Nota 3 a la entrada: El alcance de un sistema de gestión puede incluir la totalidad de la organización, funciones 
+específicas e identificadas de la organización, secciones específicas e identificadas de la organización, o una o 
+más funciones dentro de un grupo de organizaciones.
+3.6
+alta dirección
+persona o grupo de personas que dirigen y controlan una organización (3.2) al más alto nivel
+Nota 1 a la entrada: La alta dirección tiene el poder para delegar autoridad y proporcionar recursos dentro de la 
+organización.
+Nota  2  a la entrada:  Si el alcance del sistema de gestión (3.5) comprende solo una parte de la organización, 
+entonces la alta dirección se refiere a quienes dirigen y controlan esa parte de la organización.
+Nota  3  a la entrada:  Las organizaciones pueden organizarse dependiendo del marco legal bajo el cual están 
+obligadas a operar y también de acuerdo a su tamaño, sector, etc. Algunas organizaciones poseen un órgano de 
+gobierno (3.7) como alta dirección (3.6), mientras que algunas organizaciones no tienen divididas las responsabi­
+lidades en varios órganos. Estas variaciones, tanto en lo que se refiere a la organización como a las responsabi­
+lidades, pueden ser consideradas cuando se aplican los requisitos en el Capítulo 5.
+3.7
+órgano de gobierno
+grupo u órgano que tiene la responsabilidad y autoridad final respecto de las actividades, la gobernanza 
+y las políticas de una organización (3.2), y al cual la alta dirección (3.6) informa y por el cual rinde cuentas
+Nota 1 a la entrada: No todas las organizaciones, especialmente las organizaciones pequeñas, tendrán un órgano 
+de gobierno independiente de la alta dirección (véase 3.6, Nota 3 a la entrada).
+Nota 2 a la entrada: Un órgano de gobierno puede incluir pero no está limitado a un consejo directivo, comités de 
+control, consejo de control, directores y supervisores.
+3.8
+función de cumplimiento antisoborno
+personas con responsabilidad y autoridad para la operación del sistema de gestión (3.5) antisoborno
+3.9
+eficacia
+grado en el cual se realizan las actividades planificadas y se logran los resultados planificados
+3.10
+política
+intenciones y dirección de una organización (3.2), como las expresa formalmente su alta dirección (3.6) 
+o su órgano de gobierno (3.7)
+3.11
+objetivo
+resultado a lograr
+Nota 1 a la entrada: Un objetivo puede ser estratégico, táctico u operativo.
+Nota 2 a la entrada: Los objetivos pueden referirse a diferentes disciplinas (tales como objetivos financieros, 
+ventas y marketing, compras, de salud y seguridad y ambientales), y se pueden aplicar en diferentes niveles 
+[como estratégicos, para toda la organización, para el proyecto, el producto y el proceso (3.15)].
+Nota 3 a la entrada: Un objetivo se puede expresar de otras maneras, por ejemplo, como un resultado previsto, 
+un propósito, un criterio operativo, un objetivo antisoborno, o mediante el uso de términos con un significado 
+similar (por ejemplo, fin o meta).
+Nota 4 a la entrada: En el contexto de sistemas de gestión (3.5) antisoborno, la organización (3.2) establece los 
+objetivos antisoborno, de forma coherente con la política (3.10) antisoborno, para lograr resultados específicos.
+﻿
+Traducción oficial/Official translation/Traduction officielle
+© ISO 2016 – Todos los derechos reservados
+3
+Licensed to SOLUCIONES TECNOLÓGICAS EN GESTIÓN S.C. / FRANCISCO GUTIÉRREZ (fgutierrez@stratega.biz) 
+ISO Store Order: OP-561974 / Downloaded: 2021-11-11 
+Single user licence only, copying and networking prohibited.
+﻿
+ISO 37001:2016 (traducción oficial)
+3.12
+riesgo
+efecto de la incertidumbre en los objetivos (3.11)
+Nota 1 a la entrada: Un efecto es una desviación de lo esperado, ya sea — positivo o negativo.
+Nota 2 a la entrada: Incertidumbre es el estado, incluso parcial, de deficiencia de información relacionada con la 
+comprensión o conocimiento de un evento, su consecuencia o su posibilidad.
+Nota 3 a la entrada: Con frecuencia el riesgo se caracteriza por referenciar a “eventos” potenciales (según se 
+define en la Guía ISO 73:2009, 3.5.1.3) y “consecuencias” (según se define en la Guía ISO 73:2009, 3.6.1.3), o a una 
+combinación de estos.
+Nota 4 a la entrada: Con frecuencia el riesgo se expresa en términos de una combinación de las consecuencias de 
+un evento (incluyendo cambios en las circunstancias) y la “probabilidad” (según se define en la Guía ISO 73:2009, 
+3.6.1.1) asociada de que ocurra.
+3.13
+competencia
+capacidad para aplicar conocimientos y habilidades con el fin de lograr los resultados previstos
+3.14
+información documentada
+información que una organización (3.2) tiene que controlar y mantener, y el medio en el que la contiene
+Nota 1 a la entrada: La información documentada puede estar en cualquier formato y medio, y puede provenir de 
+cualquier fuente.
+Nota 2 a la entrada: La información documentada puede hacer referencia a:
+—   el sistema de gestión (3.5), incluidos los procesos (3.15) relacionados;
+—   la información generada para que la organización opere (documentación);
+—   la evidencia de los resultados alcanzados (registros).
+3.15
+proceso
+conjunto de actividades mutuamente relacionadas o que interactúan, que transforma los elementos de 
+entrada en elementos de salida
+3.16
+desempeño
+resultado medible
+Nota 1 a la entrada: El desempeño puede relacionarse con hallazgos cuantitativos o cualitativos.
+Nota 2 a la entrada: El desempeño se puede relacionar con la gestión de actividades, procesos (3.15), productos 
+(incluidos servicios), sistemas u organizaciones (3.2).
+3.17
+contratar externamente
+establecer un acuerdo mediante el cual una organización (3.2) externa realiza parte de una función o 
+proceso (3.15) de una organización
+Nota 1 a la entrada: Una organización externa está fuera del alcance del sistema de gestión (3.5), aunque la función 
+o proceso contratado externamente forme parte del alcance.
+Nota 2 a la entrada: El texto esencial de las normas ISO de sistemas de gestión contiene una definición y un 
+requisito en relación con la contratación externa, el cual no es utilizado en este documento, ya que proveedores 
+externos están incluidos en la definición de socio de negocios (3.26).
+﻿
+Traducción oficial/Official translation/Traduction officielle
+4
+© ISO 2016 – Todos los derechos reservados
+Licensed to SOLUCIONES TECNOLÓGICAS EN GESTIÓN S.C. / FRANCISCO GUTIÉRREZ (fgutierrez@stratega.biz) 
+ISO Store Order: OP-561974 / Downloaded: 2021-11-11 
+Single user licence only, copying and networking prohibited.
+﻿
+ISO 37001:2016 (traducción oficial)
+3.18
+seguimiento
+determinación del estado de un sistema, un proceso (3.15) o una actividad
+Nota 1 a la entrada: Para determinar el estado puede ser necesario verificar, supervisar u observar en forma 
+crítica.
+3.19
+medición
+proceso (3.15) para determinar un valor
+3.20
+auditoría
+proceso (3.15) sistemático, independiente y documentado para obtener evidencias de auditoría y 
+evaluarlas de manera objetiva con el fin de determinar el grado en el que se cumplen los criterios de 
+auditoría
+Nota 1 a la entrada: Una auditoría puede ser interna (de primera parte), o externa (de segunda parte o de tercera 
+parte), y puede ser combinada (combinando dos o más disciplinas).
+Nota 2 a la entrada: Una auditoría interna es realizada por la propia organización (3.2) o por una parte externa 
+que actúe en su nombre.
+Nota 3 a la entrada: “Evidencia de auditoría” y “criterios de auditoría” se definen en ISO 19011.
+3.21
+conformidad
+cumplimiento de un requisito (3.4)
+3.22
+no conformidad
+incumplimiento de un requisito (3.4)
+3.23
+acción correctiva
+acción para eliminar la causa de una no conformidad (3.22) y evitar que vuelva a ocurrir
+3.24
+mejora continua
+actividad recurrente para mejorar el desempeño (3.16)
+3.25
+personal
+directores, funcionarios, empleados, empleados o trabajadores temporales y voluntarios de la organi­
+zación (3.2)
+Nota 1 a la entrada: Diferentes tipos de personal plantean diferentes tipos y grados de riesgo (3.12) de soborno y, 
+por lo tanto, pueden tratarse de manera diferente por los procedimientos de evaluación de riesgo de soborno y de 
+gestión de riesgos de soborno de la organización.
+Nota 2 a la entrada: Véase el apartado A.8.5 para guiarse sobre los empleados o trabajadores temporales.
+3.26
+socio de negocios
+parte externa con la que la organización (3.2), tiene, o planifica establecer, algún tipo de relación 
+comercial
+Nota 1 a la entrada: Socio de negocios incluye pero no se limita a los clientes, consumidores, “alianza empresarial”, 
+socios de alianzas empresariales, miembros de un consorcio, proveedores externos, contratistas, consultores, 
+subcontratistas, proveedores, vendedores, asesores, agentes, distribuidores, representantes, intermediarios e 
+inversores. Esta definición es deliberadamente amplia y debería interpretarse de acuerdo con el perfil de riesgo 
+(3.12) de soborno de la organización, para que se aplique a los socios de negocios que razonablemente se entienda 
+que pueden exponer a la organización a riesgos de soborno.
+﻿
+Traducción oficial/Official translation/Traduction officielle
+© ISO 2016 – Todos los derechos reservados
+5
+Licensed to SOLUCIONES TECNOLÓGICAS EN GESTIÓN S.C. / FRANCISCO GUTIÉRREZ (fgutierrez@stratega.biz) 
+ISO Store Order: OP-561974 / Downloaded: 2021-11-11 
+Single user licence only, copying and networking prohibited.
+﻿
+ISO 37001:2016 (traducción oficial)
+Nota 2 a la entrada: Diferentes tipos de socio de negocios plantean diferentes tipos y grados de riesgo de soborno, 
+y una organización (3.2) tendrá diferentes grados de capacidad para influir en diferentes tipos de socio de 
+negocios. Por lo tanto, diferentes tipos de socio de negocios pueden tratarse de manera diferente por los procedi­
+mientos de evaluación de riesgo de soborno y de gestión de riesgos de soborno de la organización.
+Nota 3 a la entrada: La referencia a “negocio” en este documento puede interpretarse en sentido amplio para 
+significar a aquellas actividades que son relevantes a los efectos de la existencia de la organización.
+3.27
+funcionario público
+toda persona que ocupe un cargo legislativo, administrativo o judicial, por designación, elección o como 
+sucesor, o cualquier persona que ejerza una función pública, incluso para un organismo público o una 
+empresa pública, o cualquier funcionario o agente de una organización pública local o internacional, o 
+cualquier candidato a un cargo público
+Nota 1 a la entrada: Para ejemplos de personas que pueden considerarse como funcionarios públicos, véase el 
+apartado A.21.
+3.28
+tercera parte
+persona u organismo que es independiente de la organización (3.2)
+Nota 1 a la entrada: Todos los socios de negocios (3.26) son tercera parte, pero no todas las terceras partes son 
+socios de negocios.
+3.29
+conflicto de intereses
+situación donde los intereses de negocios, financieros, familiares, políticos o personales podrían 
+interferir con el juicio de valor del personal (3.25) en el desempeño de sus obligaciones hacia la 
+organización (3.2)
+3.30
+debida diligencia
+proceso (3.15) para evaluar con mayor detalle la naturaleza y alcance del riesgo (3.12) de soborno y 
+para ayudar a las organizaciones (3.2) a tomar decisiones en relación con transacciones, proyectos, 
+actividades, socios de negocios (3.26) y personal específicos
+4	 Contexto de la organización
+4.1	 Comprensión de la organización y de su contexto
+La organización debe determinar las cuestiones externas e internas que son pertinentes para su 
+propósito y que afectan a su capacidad para lograr los objetivos previstos de su sistema de gestión 
+antisoborno. Estas cuestiones incluyen, pero sin limitarse, a los siguientes factores:
+a)	 el tamaño, la estructura y la delegación de autoridad con poder de decisión de la organización;
+b)	 los lugares y sectores en los que opera la organización o anticipa operar;
+c)	
+la naturaleza, escala y complejidad de las actividades y operaciones de la organización;
+d)	 el modelo de negocio de la organización;
+e)	 las entidades sobre las que la organización tiene el control y entidades que ejercen control sobre la 
+organización;
+f)	
+los socios de negocios de la organización;
+g)	 la naturaleza y el alcance de las interacciones con los funcionarios públicos; y
+h)	 los deberes y obligaciones legales, reglamentarias, contractuales y profesionales aplicables.
+﻿
+Traducción oficial/Official translation/Traduction officielle
+6
+© ISO 2016 – Todos los derechos reservados
+Licensed to SOLUCIONES TECNOLÓGICAS EN GESTIÓN S.C. / FRANCISCO GUTIÉRREZ (fgutierrez@stratega.biz) 
+ISO Store Order: OP-561974 / Downloaded: 2021-11-11 
+Single user licence only, copying and networking prohibited.
+﻿
+ISO 37001:2016 (traducción oficial)
+NOTA	
+Una organización tiene control sobre otra organización si controla directa o indirectamente la gestión 
+de esa organización (véase A.13.1.3).
+4.2	 Comprensión de las necesidades y expectativas de las partes interesadas
+La organización debe determinar:
+a)	 las partes interesadas que son pertinentes al sistema de gestión antisoborno;
+b)	 los requisitos pertinentes de estas partes interesadas.
+NOTA	
+En la identificación de los requisitos de las partes interesadas, una organización puede distinguir 
+entre los requisitos obligatorios y las expectativas de carácter no obligatorio de las partes interesadas, así como 
+los compromisos voluntarios asumidos con ellas.
+4.3	 Determinación del alcance del sistema de gestión antisoborno
+La organización debe determinar los límites y la aplicabilidad del sistema de gestión antisoborno para 
+establecer su alcance.
+Cuando se determina este alcance, la organización debe considerar:
+a)	 las cuestiones externas e internas referidas en 4.1;
+b)	 los requisitos referidos en 4.2;
+c)	
+los resultados de la evaluación del riesgo de soborno referido en 4.5.
+El alcance debe estar disponible como información documentada.
+NOTA	
+Véase el Capítulo A.2 para orientación.
+4.4	 Sistema de gestión antisoborno
+La organización debe establecer, documentar, implementar, mantener y revisar continuamente y, 
+cuando sea necesario, mejorar el sistema de gestión antisoborno, incluidos los procesos necesarios y 
+sus interacciones, de acuerdo con los requisitos de este documento.
+El sistema de gestión antisoborno debe contener medidas diseñadas a identificar y evaluar el riesgo, y 
+para prevenir, detectar y enfrentar el soborno.
+NOTA 1	
+No es posible eliminar por completo el riesgo de soborno y ningún sistema de gestión antisoborno 
+será capaz de prevenir y detectar todos los sobornos.
+El sistema de gestión antisoborno debe ser razonable y proporcionado, teniendo en cuenta los factores 
+mencionados en 4.3.
+NOTA 2	
+Véase el Capítulo A.3 para orientación.
+4.5	 Evaluación del riesgo de soborno
+4.5.1	
+La organización debe realizar de forma regular evaluaciones del riesgo de soborno que deben:
+a)	 identificar el riesgo de soborno que la organización podría anticipar razonablemente teniendo en 
+cuenta los factores enumerados en el apartado 4.1;
+b)	 analizar, evaluar y priorizar los riesgos de soborno identificados;
+c)	
+evaluar la idoneidad y eficacia de los controles existentes de la organización para mitigar los riesgos 
+de soborno evaluados.
+﻿
+Traducción oficial/Official translation/Traduction officielle
+© ISO 2016 – Todos los derechos reservados
+7
+Licensed to SOLUCIONES TECNOLÓGICAS EN GESTIÓN S.C. / FRANCISCO GUTIÉRREZ (fgutierrez@stratega.biz) 
+ISO Store Order: OP-561974 / Downloaded: 2021-11-11 
+Single user licence only, copying and networking prohibited.
+﻿
+ISO 37001:2016 (traducción oficial)
+4.5.2	
+La organización debe establecer criterios para evaluar su nivel de riesgo de soborno, que debe 
+tener en cuenta las políticas y objetivos de la organización.
+4.5.3	
+La evaluación del riesgo de soborno debe ser revisada:
+a)	 de forma regular de modo que los cambios y la nueva información puedan evaluarse adecuada­
+mente, con base en el tiempo y la frecuencia definidos por la organización;
+b)	 en el caso de un cambio significativo en la estructura o las actividades de la organización.
+4.5.4	
+La organización debe conservar la información documentada que demuestra que se ha llevado 
+a cabo la evaluación del riesgo de soborno, y que se ha utilizado para diseñar o mejorar el sistema de 
+gestión antisoborno.
+NOTA	
+Véase el Capítulo A.4 para orientación.
+5	 Liderazgo
+5.1	 Liderazgo y compromiso
+5.1.1	
+Órgano de gobierno
+Cuando la organización cuente con un órgano de gobierno, dicho órgano debe demostrar su liderazgo y 
+compromiso con respecto al sistema de gestión antisoborno a través de:
+a)	 aprobar la política antisoborno de la organización;
+b)	 asegurar que la estrategia de la organización y la política antisoborno se encuentren alineadas;
+c)	
+recibir y revisar, a intervalos planificados, la información sobre el contenido y el funcionamiento 
+del sistema de gestión antisoborno de la organización;
+d)	 requerir que los recursos adecuados y apropiados, necesarios para el funcionamiento eficaz del 
+sistema de gestión antisoborno, sean asignados y distribuidos;
+e)	 ejercer una supervisión razonable sobre la implementación del sistema de gestión antisoborno de 
+la organización por la alta dirección y su eficacia.
+Estas actividades deben llevarse a cabo por la alta dirección, si la organización no tiene un órgano de 
+gobierno.
+5.1.2	
+Alta dirección
+La alta dirección debe demostrar liderazgo y compromiso con respecto al sistema de gestión 
+antisoborno:
+a)	 asegurándose de que el sistema de gestión antisoborno, incluyendo la política y los objetivos, se 
+establezca, implemente, mantenga y revise para bordar adecuadamente los riegos de soborno de la 
+organización;
+b)	 asegurándose de la integración de los requisitos del sistema de gestión antisoborno en los procesos 
+de la organización;
+c)	
+desplegando recursos suficientes y adecuados para el funcionamiento eficaz del sistema de gestión 
+antisoborno;
+d)	 comunicando interna y externamente lo relacionado con la política antisoborno;
+﻿
+Traducción oficial/Official translation/Traduction officielle
+8
+© ISO 2016 – Todos los derechos reservados
+Licensed to SOLUCIONES TECNOLÓGICAS EN GESTIÓN S.C. / FRANCISCO GUTIÉRREZ (fgutierrez@stratega.biz) 
+ISO Store Order: OP-561974 / Downloaded: 2021-11-11 
+Single user licence only, copying and networking prohibited.
+﻿
+ISO 37001:2016 (traducción oficial)
+e)	 comunicando internamente la importancia de la gestión eficaz antisoborno y la conformidad con 
+los requisitos del sistema de gestión antisoborno;
+f)	
+asegurándose que el sistema de gestión antisoborno esté diseñado adecuadamente para lograr sus 
+objetivos;
+g)	 dirigiendo y apoyando al personal para contribuir a la eficacia del sistema de gestión antisoborno;
+h)	 promoviendo una cultura antisoborno apropiada dentro de la organización;
+i)	
+promoviendo la mejora continua;
+j)	
+apoyando a otros roles pertinentes de la dirección, para demostrar su liderazgo en la prevención y 
+detección de soborno en la medida en la que se aplique a sus áreas de responsabilidad;
+k)	 fomentando el uso de los procedimientos para reportar la sospecha de soborno y el soborno real 
+(véase 8.9);
+l)	
+asegurándose de que ningún miembro del personal sufrirá represalias, discriminación o medidas 
+disciplinarias [véase 7.2.2.1 d)] o por informes hechos de buena fe o sobre la base de una creencia 
+razonable de violación o sospecha de violación a la política de antisoborno de la organización, o por 
+negarse a participar en el soborno, incluso si tal negativa puede dar lugar a la pérdida de negocios 
+para la organización (excepto cuando el individuo participó en la violación);
+m)	 reportando a intervalos planificados, al órgano de gobierno (si existe) sobre el contenido y el 
+funcionamiento del sistema de gestión de antisoborno y de las denuncias de soborno graves y/o 
+sistemáticas.
+NOTA	
+Véase el Capítulo A.5 para orientación.
+5.2	 Política antisoborno
+La alta dirección debe establecer, mantener y revisar una política antisoborno que:
+a)	 prohíba el soborno;
+b)	 requiera del cumplimiento de las leyes antisoborno que sean aplicables a la organización;
+c)	
+sea apropiada al propósito de la organización;
+d)	 proporcione un marco de referencia para el establecimiento, revisión y logro de los objetivos 
+antisoborno;
+e)	 incluya el compromiso de cumplir los requisitos del sistema de gestión antisoborno;
+f)	
+promueva el planteamiento de inquietudes de buena fe o sobre la base de una creencia razonable, 
+en confianza y sin temor a represalias;
+g)	 incluya un compromiso de mejora continua del sistema de gestión antisoborno;
+h)	 explique la autoridad y la independencia de la función de cumplimiento antisoborno; y
+i)	
+explique las consecuencias de no cumplir con la política antisoborno.
+La política antisoborno debe:
+—	 estar disponible como información documentada;
+—	 comunicarse en los idiomas apropiados dentro de la organización y a los socios de negocios que 
+representan más que un riesgo bajo de soborno;
+—	 estar disponible a las partes interesadas pertinentes, según corresponda.
+﻿
+Traducción oficial/Official translation/Traduction officielle
+© ISO 2016 – Todos los derechos reservados
+9
+Licensed to SOLUCIONES TECNOLÓGICAS EN GESTIÓN S.C. / FRANCISCO GUTIÉRREZ (fgutierrez@stratega.biz) 
+ISO Store Order: OP-561974 / Downloaded: 2021-11-11 
+Single user licence only, copying and networking prohibited.
+﻿
+ISO 37001:2016 (traducción oficial)
+5.3	 Roles, responsabilidades y autoridades en la organización
+5.3.1	
+Roles y responsabilidades
+La alta dirección debe tener la responsabilidad general de la implementación y el cumplimiento del 
+sistema de gestión antisoborno tal como se describe en el apartado 5.1.2.
+La alta dirección debe asegurarse de que las responsabilidades y autoridades para los roles pertinentes 
+se asignen, se comuniquen dentro y a través de todos los niveles de la organización.
+Los directores en cada nivel deben ser responsables de requerir que los requisitos del sistema de 
+gestión antisoborno se apliquen y se cumplan en su departamento o función.
+El órgano de gobierno (si existe), la alta dirección y cualquier otro miembro del personal deben ser 
+responsables de entender, cumplir y aplicar los requisitos del sistema de gestión antisoborno en lo que 
+respecta a su rol en la organización.
+5.3.2	
+Función de cumplimiento antisoborno
+La alta dirección debe asignar a la función de cumplimiento antisoborno la responsabilidad y 
+autoridad para:
+a)	 supervisar el diseño e implementación del sistema de gestión antisoborno por parte de la orga­
+nización;
+b)	 proporcionar asesoramiento y orientación al personal sobre el sistema de gestión antisoborno y las 
+cuestiones relacionadas con el soborno;
+c)	
+asegurarse de que el sistema de gestión antisoborno es conforme con los requisitos de este 
+documento;
+d)	 informar sobre el desempeño del sistema de gestión antisoborno al órgano de gobierno (si existe) y 
+a la alta dirección y a otras funciones de cumplimiento, según corresponda.
+La función de cumplimiento antisoborno debe ser provista de recursos adecuados y asignada a las 
+personas que tengan la competencia, la posición, la autoridad y la independencia apropiadas.
+La función de cumplimiento antisoborno debe tener acceso directo y rápido al órgano de gobierno (si 
+existe) y a la alta dirección en el caso de que necesite plantear cualquier cuestión o inquietud en relación 
+con el soborno o el sistema de gestión antisoborno.
+La alta dirección puede asignar parte o la totalidad de la función de cumplimiento antisoborno a 
+personas externas a la organización. Si lo hace, la alta dirección debe asegurar que personal específico 
+tenga la responsabilidad y autoridad sobre aquellas partes de la función asignadas externamente.
+NOTA	
+Véase el Capítulo A.6 para orientación.
+5.3.3	
+Delegación de la toma de decisiones
+Cuando la alta dirección delegue al personal la autoridad para la toma de decisiones en las que existe 
+más que un riesgo bajo de soborno, la organización debe establecer y mantener un proceso de toma 
+de decisiones o un conjunto de controles que requieran que el proceso de toma de decisiones y el nivel 
+de autoridad de las personas que toman las decisiones sean apropiados y estén libres de conflictos 
+de intereses reales o potenciales. La alta dirección debe asegurarse de que estos procesos se revisen 
+periódicamente como parte de sus roles y responsabilidades para la implementación y el cumplimiento 
+del sistema de gestión antisoborno que se describe en el apartado 5.3.1.
+NOTA	
+La delegación de toma de decisiones no exime a la alta dirección o al órgano superior, si existen, de 
+sus deberes y responsabilidades descritas en los apartados 5.1.1, 5.1.2 y 5.3.1, ni transfiere, necesariamente, las 
+posibles responsabilidades legales al que se le delegó esta función.
+﻿
+Traducción oficial/Official translation/Traduction officielle
+10
+© ISO 2016 – Todos los derechos reservados
+Licensed to SOLUCIONES TECNOLÓGICAS EN GESTIÓN S.C. / FRANCISCO GUTIÉRREZ (fgutierrez@stratega.biz) 
+ISO Store Order: OP-561974 / Downloaded: 2021-11-11 
+Single user licence only, copying and networking prohibited.
+﻿
+ISO 37001:2016 (traducción oficial)
+6	 Planificación
+6.1	 Acciones para tratar riesgos y oportunidades
+Al planificar el sistema de gestión antisoborno, la organización debe considerar las cuestiones referidas 
+en el apartado 4.1 y los requisitos referidos en el apartado 4.2, y determinar los riesgos identificados en 
+el apartado 4.5 y oportunidades para mejorar que es necesario enfrentar con el fin de:
+a)	 asegurar razonablemente que el sistema de gestión antisoborno puede lograr sus objetivos;
+b)	 prevenir o reducir efectos no deseados relacionados con la política y objetivos del sistema 
+antisoborno;
+c)	
+hacer seguimiento de la eficacia del sistema de gestión antisoborno;
+d)	 lograr la mejora continua.
+La organización debe planificar:
+—	 las acciones para abordar estos riesgos de soborno y las oportunidades de mejora;
+—	 la manera de:
+—	 integrar e implementar las acciones en sus procesos del sistema de gestión antisoborno;
+—	 evaluar la eficacia de estas acciones.
+6.2	 Objetivos antisoborno y planificación para lograrlos
+La organización debe establecer los objetivos del sistema de gestión antisoborno para las funciones y 
+niveles pertinentes.
+Los objetivos del sistema de gestión antisoborno deben:
+a)	 ser coherentes con la política antisoborno;
+b)	 ser medibles (si es posible);
+c)	
+tener en cuenta los factores aplicables referidos en el apartado 4.1, los requisitos referidos en el 
+apartado 4.2 y los riesgos de soborno identificados en el apartado 4.5;
+d)	 ser alcanzables;
+e)	 ser objeto de seguimiento;
+f)	
+comunicarse de acuerdo con el apartado 7.4, y
+g)	 actualizarse, según corresponda.
+La organización debe conservar información documentada sobre los objetivos del sistema de gestión 
+antisoborno.
+Cuando se hace la planificación para lograr los objetivos del sistema de gestión antisoborno, la organi­
+zación debe determinar:
+—	 qué se va a hacer;
+—	 qué recursos se requerirán;
+—	 quién será responsable;
+—	 cuándo se alcanzarán los objetivos;
+﻿
+Traducción oficial/Official translation/Traduction officielle
+© ISO 2016 – Todos los derechos reservados
+11
+Licensed to SOLUCIONES TECNOLÓGICAS EN GESTIÓN S.C. / FRANCISCO GUTIÉRREZ (fgutierrez@stratega.biz) 
+ISO Store Order: OP-561974 / Downloaded: 2021-11-11 
+Single user licence only, copying and networking prohibited.
+﻿
+ISO 37001:2016 (traducción oficial)
+—	 cómo se evaluarán e informarán los resultados;
+—	 quién va a imponer sanciones o penalidades.
+7	 Apoyo
+7.1	 Recursos
+La organización debe determinar y proporcionar los recursos necesarios para el establecimiento, 
+implementación, mantenimiento y mejora continua del sistema de gestión antisoborno.
+NOTA	
+Véase el Capítulo A.7 para orientación.
+7.2	 Competencia
+7.2.1	
+Generalidades
+La organización debe:
+a)	 determinar la competencia necesaria de las personas que realizan, bajo su control, un trabajo que 
+afecte al desempeño antisoborno;
+b)	 asegurar que estas personas sean competentes, basándose en la educación, formación o experiencia 
+apropiadas;
+c)	
+cuando sea aplicable, tomar acciones para adquirir y mantener la competencia necesaria y evaluar 
+la eficacia de las acciones tomadas;
+d)	 conservar la información documentada apropiada, como evidencia de la competencia.
+NOTA	
+Las acciones aplicables pueden incluir, por ejemplo la formación, la tutoría o la reasignación del 
+personal o socios de negocios; o la contratación o subcontratación de los mismos.
+7.2.2	
+Proceso de contratación
+7.2.2.1	
+En relación con todo su personal, la organización debe implementar procedimientos tales que:
+a)	 las condiciones de contratación requieran que el personal cumpla con la política antisoborno y el 
+sistema de gestión antisoborno y den a la organización el derecho para disciplinar al personal en 
+caso de incumplimiento;
+b)	 dentro de un período razonable desde al comienzo de su empleo, el personal reciba una copia de, o 
+se le proporciona el acceso a la política antisoborno y a la formación en relación con esta política;
+c)	
+la organización disponga de procedimientos que le permitan tomar medidas disciplinarias apropia­
+das contra el personal que viole la política antisoborno o el sistema de gestión antisoborno; y
+d)	 el personal no sufra represalias, discriminación o medidas disciplinarias (por ejemplo, mediante 
+amenazas, aislamiento, degradación, impedimentos para su ascenso, traslado, despido, bullying, 
+victimización u otras formas de acoso) por:
+1)	 negarse a participar en, o por rechazar, cualquier actividad respecto de la cual ellos hayan 
+juzgado razonablemente que exista más que un riesgo bajo de soborno que no haya sido 
+mitigado por la organización; o
+2)	 las inquietudes planteadas o informes hechos de buena fe o sobre la base de una creencia 
+razonable, de intento real o sospecha de soborno o violaciones de la política antisoborno o del 
+sistema de gestión antisoborno (excepto cuando el individuo participó en la violación).
+﻿
+Traducción oficial/Official translation/Traduction officielle
+12
+© ISO 2016 – Todos los derechos reservados
+Licensed to SOLUCIONES TECNOLÓGICAS EN GESTIÓN S.C. / FRANCISCO GUTIÉRREZ (fgutierrez@stratega.biz) 
+ISO Store Order: OP-561974 / Downloaded: 2021-11-11 
+Single user licence only, copying and networking prohibited.
+﻿
+ISO 37001:2016 (traducción oficial)
+7.2.2.2	
+En relación con todas las posiciones que están expuestas a más que un riesgo bajo de soborno, 
+según lo determinado en la evaluación del riesgo de soborno (véase 4.5), y al cumplimiento de la función 
+antisoborno, la organización debe implementar procedimientos que  proporcionen:
+a)	 la debida diligencia (véase 8.2) se lleve a cabo sobre las personas antes de que sean empleadas, y 
+el personal antes de que sea transferido o promovido por la organización, para determinar, en la 
+medida de lo razonable, que es apropiado emplearlos o reubicarlos y que es razonable creer que van 
+a cumplir con los requisitos de la política antisoborno y del sistema de gestión antisoborno;
+b)	 los bonos de desempeño, metas de desempeño y otros elementos de incentivos de la remuneración 
+que se revisen periódicamente para comprobar que hay garantías razonables en marcha para 
+evitar fomentar el soborno;
+c)	
+dicho personal, además de la alta dirección y el órgano de gobierno (si existe), presente una 
+declaración, a intervalos razonables, proporcionales con el riesgo de soborno identificado, donde 
+confirme su cumplimiento con la política antisoborno.
+NOTA 1	
+La declaración de cumplimiento antisoborno puede ser independiente o formar un componente de un 
+proceso de declaración de cumplimiento más amplio.
+NOTA 2	
+Véase el Capítulo A.8 para orientación.
+7.3	 Toma de conciencia y formación
+La organización debe facilitar la toma de conciencia y la formación antisoborno adecuada y apropiada 
+para el personal. Dicha formación debe abordar  las siguientes cuestiones, en la medida en la que sean 
+adecuados, teniendo en cuenta los resultados de la evaluación del riesgo de soborno (véase 4.5):
+a)	 la política antisoborno, los procedimientos y el sistema de gestión antisoborno de la organización y 
+su deber de cumplir con ellos;
+b)	 el riesgo de soborno y el daño que puede resultar del soborno para ellos y para la organización;
+c)	
+las circunstancias en las que el soborno puede ocurrir en relación con sus funciones, y cómo 
+reconocer estas circunstancias;
+d)	 cómo reconocer y responder a las solicitudes u ofertas de soborno;
+e)	 cómo pueden ayudar a prevenir y evitar el soborno y reconocer indicadores de riesgo de soborno;
+f)	
+su contribución a la eficacia del sistema de gestión antisoborno, incluidos los beneficios de una 
+mejora del desempeño antisoborno y de reportar cualquier sospecha de soborno;
+g)	 las implicaciones y potenciales consecuencias del incumplimiento de los requisitos del sistema de 
+gestión antisoborno;
+h)	 cómo y a quién deben informar de cualquier inquietud (véase 8.9);
+i)	
+información sobre la formación y los recursos disponibles.
+Se debe facilitar la toma de conciencia antisoborno y formación al personal con regularidad (a intervalos 
+planificados determinados por la organización) según resulte apropiado a sus funciones, respecto de los 
+riesgos de soborno a los que esté expuesto, y cualquier cambio en las circunstancias. Los programas de 
+toma de conciencia y formación se deben actualizar periódicamente según sea necesario para reflejar 
+la nueva información relevante.
+Teniendo en cuenta los riesgos de soborno identificados (véase 4.5), la organización debe implementar 
+procedimientos que contemplen la toma de conciencia antisoborno y la formación de los socios de 
+negocios que actúan en su nombre o en su beneficio y que puedan suponer más que un riesgo bajo de 
+soborno para la organización. Estos procedimientos deben identificar a los socios de negocios para los 
+cuales es necesario la toma de conciencia y la formación, su contenido, y los medios por los cuales se 
+debe proporcionar la formación
+﻿
+Traducción oficial/Official translation/Traduction officielle
+© ISO 2016 – Todos los derechos reservados
+13
+Licensed to SOLUCIONES TECNOLÓGICAS EN GESTIÓN S.C. / FRANCISCO GUTIÉRREZ (fgutierrez@stratega.biz) 
+ISO Store Order: OP-561974 / Downloaded: 2021-11-11 
+Single user licence only, copying and networking prohibited.
+﻿
+ISO 37001:2016 (traducción oficial)
+La organización debe mantener información documentada sobre los procedimientos de formación, el 
+contenido de la formación, y cuándo y quién la recibió.
+NOTA 1	
+Los requisitos de toma de conciencia y formación para socios de negocios pueden comunicarse a 
+través de requisitos contractuales o similares, e implementarse por la organización, el socio de negocios o por 
+otras partes designadas para tal fin.
+NOTA 2	
+Véase el Capítulo A.9 para recibir orientación.
+7.4	 Comunicación
+7.4.1	
+La organización debe determinar las comunicaciones internas y externas pertinentes al sistema 
+de gestión antisoborno, incluyendo:
+a)	 qué comunicar;
+b)	 cuándo comunicar;
+c)	
+a quién comunicar;
+d)	 cómo comunicar;
+e)	 quién comunica;
+f)	
+en qué idioma comunicar.
+7.4.2	
+La política antisoborno se debe poner a disposición de todo el personal de la organización y 
+socios de negocios, se debe comunicar directamente tanto al personal como a los socios de negocios 
+que suponen más que un riesgo bajo de soborno, y se debe publicar a través de canales de comunicación 
+internos y externos de la organización, según sea apropiado.
+7.5	 Información documentada
+7.5.1	
+Generalidades
+El sistema de gestión antisoborno de la organización debe incluir:
+a)	 la información documentada requerida por este documento;
+b)	 la información documentada que la organización determina como necesaria para la eficacia del 
+sistema de gestión antisoborno.
+NOTA 1	
+La extensión de la información documentada para un sistema de gestión antisoborno puede variar de 
+una organización a otra, debido a:
+—   el tamaño de la organización y su tipo de actividades, procesos, productos y servicios;
+—   la complejidad de los procesos y sus interacciones;
+—   la competencia del personal.
+NOTA 2	
+La información documentada puede conservarse por separado como parte del sistema de gestión 
+antisoborno, o puede conservarse como parte de otros sistemas de gestión (por ejemplo, de cumplimiento, 
+financiero, comercial, de auditoría, etc.).
+NOTA 3	
+Véase el Capítulo A.17 para orientación.
+﻿
+Traducción oficial/Official translation/Traduction officielle
+14
+© ISO 2016 – Todos los derechos reservados
+Licensed to SOLUCIONES TECNOLÓGICAS EN GESTIÓN S.C. / FRANCISCO GUTIÉRREZ (fgutierrez@stratega.biz) 
+ISO Store Order: OP-561974 / Downloaded: 2021-11-11 
+Single user licence only, copying and networking prohibited.
+﻿
+ISO 37001:2016 (traducción oficial)
+7.5.2	
+Creación y actualización
+Al crear y actualizar la información documentada, la organización debe asegurarse de que lo siguiente 
+sea apropiado:
+a)	 la identificación y descripción (por ejemplo, título, fecha, autor o número de referencia);
+b)	 el formato (por ejemplo, idioma, versión del software, gráficos) y los medios de soporte (por 
+ejemplo, papel, electrónico);
+c)	
+la revisión y aprobación con respecto a la idoneidad y adecuación.
+7.5.3	
+Control de la información documentada
+La información documentada requerida por el sistema de gestión antisoborno y por este documento se 
+debe controlar para asegurarse de que:
+a)	 esté disponible y sea idónea para su uso, dónde y cuándo se necesite;
+b)	 esté protegida adecuadamente (por ejemplo, contra pérdida de la confidencialidad, uso inadecuado, 
+o pérdida de integridad).
+Para el control de la información documentada, la organización debe abordar las siguientes actividades, 
+según corresponda:
+—	 distribución, acceso, recuperación y uso;
+—	 almacenamiento y preservación, incluida la preservación de la legibilidad;
+—	 control de cambios (por ejemplo, control de versión);
+—	 conservación y disposición.
+La información documentada de origen externo que la organización determina como necesaria para la 
+planificación y operación del sistema de gestión antisoborno se debe identificar, según sea apropiado, y 
+controlar.
+NOTA	
+El acceso puede implicar una decisión en relación con el permiso solamente para consultar la informa­
+ción documentada, o el permiso y a la autorización para consultar y modificar la información documentada.
+8	 Operación
+8.1	 Planificación y control operacional
+La organización debe planificar, implementar, revisar y controlar los procesos necesarios para cumplir 
+los requisitos del sistema de gestión antisoborno y para implementar las acciones determinadas en 6.1, 
+mediante:
+a)	 el establecimiento de criterios para los procesos;
+b)	 la implementación del control de los procesos de acuerdo con los criterios;
+c)	
+manteniendo información documentada en la medida necesaria para confiar en que los procesos se 
+han llevado a cabo según lo planificado.
+Estos procesos deben incluir los controles específicos mencionados en los apartados 8.2 a 8.10.
+La organización debe controlar los cambios planificados y revisar las consecuencias de los cambios no 
+previstos, tomando acciones para mitigar cualquier efecto adverso, según sea necesario.
+﻿
+Traducción oficial/Official translation/Traduction officielle
+© ISO 2016 – Todos los derechos reservados
+15
+Licensed to SOLUCIONES TECNOLÓGICAS EN GESTIÓN S.C. / FRANCISCO GUTIÉRREZ (fgutierrez@stratega.biz) 
+ISO Store Order: OP-561974 / Downloaded: 2021-11-11 
+Single user licence only, copying and networking prohibited.
+﻿
+ISO 37001:2016 (traducción oficial)
+La organización debe asegurarse de que los procesos contratados externamente estén controlados.
+NOTA	
+El texto esencial de las normas ISO de sistemas de gestión contiene un requisito en relación con la 
+contratación externa, el cual no es utilizado en este documento, ya que proveedores externos están incluidos en 
+la definición de socio de negocios.
+8.2	 Debida diligencia
+Cuando la evaluación del riesgo de soborno de la organización llevada a cabo en 4.5, ha evaluado más 
+que un riesgo bajo de soborno en relación con:
+a)	 determinadas categorías de transacciones, proyectos o actividades,
+b)	 las relaciones existentes o planificadas con determinadas categorías de socios de negocios; o
+c)	
+categorías específicas del personal en determinadas posiciones (véase 7.2.2.2),
+La organización debe evaluar la naturaleza y el alcance del riesgo de soborno en relación a transacciones, 
+proyectos, actividades, socios de negocios y el personal, pertenecientes a estas categorías específicas. 
+Esta evaluación debe incluir cualquier debida diligencia necesaria para obtener información suficiente 
+para evaluar el riesgo de soborno. La debida diligencia debe actualizarse con una frecuencia definida 
+para que los cambios y la nueva información puedan tenerse en cuenta debidamente.
+NOTA 1	
+La organización puede concluir que es innecesario, injustificado o desproporcionado el llevar a cabo 
+la debida diligencia en ciertas categorías del personal y socios de negocios.
+NOTA 2	
+Los factores enumerados en a), b) y c) anteriores no son exhaustivos.
+NOTA 3	
+Véase el Capítulo A.10 para orientación.
+8.3	 Controles financieros
+La organización debe implementar controles financieros que gestionen el riesgo de soborno.
+NOTA	
+Véase el Capítulo A.11 para orientación.
+8.4	 Controles no financieros
+La organización debe implementar controles no financieros para gestionar el riesgo de soborno en 
+áreas tales como compras, operaciones, ventas, comercial, recursos humanos, actividades legales y 
+reglamentarias.
+NOTA 1	
+Cualquier transacción particular, actividad o relación puede ser objeto de controles tanto financieros 
+como no financieros.
+NOTA 2	
+Véase el Capítulo A.12 para orientación.
+8.5	 Implementación de los controles antisoborno por organizaciones controladas y por 
+socios de negocios
+8.5.1	
+La organización debe implementar procedimientos que requieran que todas las demás organi­
+zaciones sobre las que tiene control, bien:
+a)	 implementen el sistema de gestión antisoborno de la organización; o bien
+b)	 implementen sus propios controles antisoborno,
+﻿
+Traducción oficial/Official translation/Traduction officielle
+16
+© ISO 2016 – Todos los derechos reservados
+Licensed to SOLUCIONES TECNOLÓGICAS EN GESTIÓN S.C. / FRANCISCO GUTIÉRREZ (fgutierrez@stratega.biz) 
+ISO Store Order: OP-561974 / Downloaded: 2021-11-11 
+Single user licence only, copying and networking prohibited.
+﻿
+ISO 37001:2016 (traducción oficial)
+en cada caso, solo en la medida en que sea razonable y proporcional, en relación a los riesgos de soborno 
+a los que se enfrentan las organizaciones controladas, teniendo en cuenta la evaluación del riesgo de 
+soborno realizada de conformidad con el apartado 4.5.
+NOTA	
+Una organización tiene control sobre otra organización si controla directa o indirectamente a la 
+gestión de la organización (véase A.13.1.3).
+8.5.2	
+En relación con los socios de negocios no controlados por la organización para los que la 
+evaluación del riesgo de soborno (véase 4.5) o la debida diligencia (véase 8.2) han identificado más que 
+un riesgo bajo de soborno, y donde los controles antisoborno implementados por los socios de negocios 
+ayudarían a mitigar el riesgo de soborno relevante, la organización debe implementar procedimientos de 
+la siguiente manera:
+a)	 la organización debe determinar si el socio de negocios tiene implementados controles antisoborno 
+que gestionan el riesgo relevante de soborno;
+b)	 donde un socio de negocios no tiene en marcha controles antisoborno, o no es posible verificar si 
+los tiene implementados:
+1)	 donde sea posible, la organización debe exigir al socio de negocios la implementación de 
+controles antisoborno en relación con la transacción, proyecto o actividad correspondiente, o
+2)	 donde no es posible exigir al socio de negocios implementar controles antisoborno, esto debe 
+ser un factor que se tome en cuenta al evaluar el riesgo de soborno de la relación con este socio 
+de negocios (véase 4.5 y 8.2), y la forma en que la organización gestionan dichos riesgos (véase 
+8.3, 8.4 y 8.5).
+NOTA	
+Véase el Capítulo A.13 para orientación.
+8.6	 Compromisos antisobornos
+Para socios de negocios que representan más que un riesgo bajo de soborno, la organización debe 
+implementar procedimientos que exijan, en la medida de lo posible, que:
+a)	 los socios de negocios se comprometan a prevenir el soborno por, o en nombre de, o en beneficio del 
+socio de negocios en relación con la transacción, proyecto, actividad o relación correspondiente;
+b)	 la organización sea capaz de poner fin a la relación con el socio de negocios en el caso de soborno 
+por parte de, o en nombre de, o en beneficio del socio de negocios en relación con la transacción, 
+proyecto, actividad o relación correspondiente.
+Cuando no sea posible cumplir los requisitos anteriores a) o b), este debe ser un factor a tener en cuenta 
+para evaluar el riesgo de soborno de la relación con este socio de negocios (véase 4.5 y 8.2), y la forma 
+en que la organización gestiona dichos riesgos (véase 8.3, 8.4 y 8.5).
+NOTA	
+Véase el Capítulo A.14 para orientación.
+8.7	 Regalos, hospitalidad, donaciones y beneficios similares
+La organización debe implementar procedimientos que estén diseñados para prevenir la oferta, el 
+suministro o la aceptación de regalos, hospitalidad, donaciones y beneficios similares, en los que la 
+oferta, el suministro o la aceptación son o razonablemente podrían percibirse como soborno.
+NOTA	
+Véase el Capítulo A.15 para orientación.
+8.8	 Gestión de los controles antisoborno inadecuados
+Cuando la debida diligencia (véase 8.2) realizada en una transacción, proyecto, actividad o relación 
+específica, con un socio de negocios, establece que los riesgos de soborno no pueden ser gestionados 
+por los controles antisoborno existentes, y la organización no puede o no desea implementar controles 
+﻿
+Traducción oficial/Official translation/Traduction officielle
+© ISO 2016 – Todos los derechos reservados
+17
+Licensed to SOLUCIONES TECNOLÓGICAS EN GESTIÓN S.C. / FRANCISCO GUTIÉRREZ (fgutierrez@stratega.biz) 
+ISO Store Order: OP-561974 / Downloaded: 2021-11-11 
+Single user licence only, copying and networking prohibited.
+﻿
+ISO 37001:2016 (traducción oficial)
+antisoborno, mejores, adicionales o tomar otras medidas adecuadas (tales como cambiar la naturaleza 
+de la transacción, proyecto, actividad o relación) para permitir a la organización gestionar los riesgos 
+de soborno pertinentes, la organización debe:
+a)	 en el caso de una transacción, proyecto, actividad o relación existente, adoptar las medidas adecua­
+das a los riesgos de soborno y la naturaleza de la transacción, proyecto, actividad o relación para 
+terminar, interrumpir, suspender o retirarse de esto tan pronto como sea posible;
+b)	 en el caso de una nueva propuesta de transacción, proyecto, actividad o relación, posponer o 
+negarse a continuar con ella.
+8.9	 Planteamiento de inquietudes
+La organización debe implementar procedimientos, para:
+a)	 fomentar y facilitar que las personas reporten, de buena fe o sobre la base de una creencia 
+razonable, el intento de soborno, supuesto o real, o cualquier violación o debilidad en el sistema 
+de gestión antisoborno, a la función de cumplimiento antisoborno o al personal apropiado (ya sea 
+directamente o a través de una tercera parte apropiada);
+b)	 salvo en la medida requerida para el avance de una investigación, solicitar que la organización 
+trate los informes de forma confidencial con el fin de proteger la identidad del informante y otras 
+personas que participen o a las que se haga referencia en el informe;
+c)	
+permitir la denuncia anónima;
+d)	 prohibir represalias, y proteger a los que realicen el reporte de represalias, después de que ellos, 
+de buena fe o sobre la base de una creencia razonable, hayan planteado o reportado el intento 
+de soborno, supuesto o real o violaciones de la política antisoborno o del sistema de gestión 
+antisoborno;
+e)	 permitir que el personal reciba el asesoramiento de una persona apropiada sobre qué hacer si se 
+enfrentan a un problema o situación que podría involucrar el soborno.
+La organización debe asegurarse de que todo el personal esté al tanto de los procedimientos de reporte, 
+y que sean capaces de utilizarlos, y tomen conciencia de sus derechos y protecciones de conformidad 
+con los procedimientos.
+NOTA 1	
+Estos procedimientos pueden ser los mismos, o formar parte de los que se utilizan para el reporte de 
+otras cuestiones de interés (por ejemplo, seguridad, negligencia, delito o de otro riesgo grave).
+NOTA 2	
+La organización puede usar un socio de negocios para gestionar el sistema de información en su nombre.
+NOTA 3	
+En algunas jurisdicciones, los requisitos en b) y c) anteriores están prohibidos por la ley. En estos 
+casos, la organización debe documentar que no los puede cumplir.
+8.10	Investigar y abordar el soborno
+La organización debe implementar procedimientos para:
+a)	 requerir una evaluación y, cuando sea apropiado, la investigación de cualquier soborno, o el 
+incumplimiento de la política de antisoborno o el sistema de gestión antisoborno, que haya sido 
+informado, detectado o bajo razonable sospecha;
+b)	 requerir medidas apropiadas en caso de que la investigación revele algún soborno, o el incumpli­
+miento de la política antisoborno o del sistema de gestión antisoborno;
+c)	
+empoderar y facilitar a los investigadores;
+d)	 requerir la cooperación en la investigación del personal pertinente;
+﻿
+Traducción oficial/Official translation/Traduction officielle
+18
+© ISO 2016 – Todos los derechos reservados
+Licensed to SOLUCIONES TECNOLÓGICAS EN GESTIÓN S.C. / FRANCISCO GUTIÉRREZ (fgutierrez@stratega.biz) 
+ISO Store Order: OP-561974 / Downloaded: 2021-11-11 
+Single user licence only, copying and networking prohibited.
+﻿
+ISO 37001:2016 (traducción oficial)
+e)	 requerir que el estado y los resultados de la investigación sean reportados a la función de cumpli­
+miento antisoborno y a otras funciones de cumplimiento, según corresponda;
+f)	
+requerir que la investigación se lleve a cabo de forma confidencial y que los resultados sean 
+confidenciales.
+La investigación debe ser llevada a cabo en forma confidencial y reportada por el personal que no 
+forma parte del rol o función que está siendo investigado. La organización puede nombrar a un socio 
+de negocios para llevar a cabo la investigación e informar de los resultados a los miembros del personal 
+que no formen parte del papel rol o función que están siendo investigados.
+NOTA 1	
+Véase el Capítulo A.18 para orientación
+NOTA 2	
+En algunas jurisdicciones, el requisito en f) está prohibido por la ley. En estos casos, la organización 
+documenta que no puede cumplir.
+9	 Evaluación del desempeño
+9.1	 Seguimiento, medición, análisis y evaluación
+La organización debe determinar:
+a)	 qué necesita para el seguimiento y medición;
+b)	 quién es responsable del seguimiento;
+c)	
+los métodos de seguimiento, medición, análisis y evaluación, según sea aplicable para asegurar 
+resultados válidos;
+d)	 cuándo se deben llevar a cabo el seguimiento y la medición;
+e)	 cuándo se deben analizar y evaluar los resultados del seguimiento y la medición;
+f)	
+a quién y cómo se debe reportar dicha información.
+La organización debe conservar la información documentada apropiada como evidencia de los métodos 
+y resultados.
+La organización debe evaluar el desempeño antisoborno y la eficacia y eficiencia del sistema de gestión 
+antisoborno.
+NOTA	
+Véase el Capítulo A.19 para orientación.
+9.2	 Auditoría interna
+9.2.1	
+La organización debe llevar a cabo auditorías internas a intervalos planificados, para propor­
+cionar información acerca de si el sistema de gestión antisoborno:
+a)	 es conforme con:
+1)	 los requisitos propios de la organización para su sistema de gestión antisoborno;
+2)	 los requisitos de este documento;
+b)	 se implementa y mantiene eficazmente.
+NOTA 1	
+Véase la Norma ISO 19011 a modo de orientación sobre auditoría de sistemas de gestión.
+NOTA 2	
+El alcance y la escala de las actividades de auditoría interna de la organización pueden variar 
+dependiendo de una variedad de factores, incluyendo el tamaño de la organización, la estructura, la madurez y 
+ubicaciones.
+﻿
+Traducción oficial/Official translation/Traduction officielle
+© ISO 2016 – Todos los derechos reservados
+19
+Licensed to SOLUCIONES TECNOLÓGICAS EN GESTIÓN S.C. / FRANCISCO GUTIÉRREZ (fgutierrez@stratega.biz) 
+ISO Store Order: OP-561974 / Downloaded: 2021-11-11 
+Single user licence only, copying and networking prohibited.
+﻿
+ISO 37001:2016 (traducción oficial)
+9.2.2	
+La organización debe:
+a)	 planificar, establecer, implementar y mantener uno o varios programas de auditoría que incluyan 
+la frecuencia, los métodos, las responsabilidades, los requisitos de planificación y la elaboración 
+de informes, que deben tener en consideración la importancia de los procesos involucrados, y los 
+resultados de las auditorías previas;
+b)	 definir los criterios de la auditoría y el alcance para cada auditoría;
+c)	
+seleccionar los auditores competentes y llevar a cabo auditorías para asegurarse de la objetividad y 
+la imparcialidad del proceso de auditoría;
+d)	 asegurarse de que los resultados de las auditorías se informan a la dirección pertinente, a los 
+niveles de dirección pertinentes, a la función de cumplimiento antisoborno, a la alta dirección y 
+cuando sea apropiado, el órgano de gobierno (si existe);
+e)	 conservar la información documentada como evidencia de la implementación del programa de 
+auditoría y de los resultados de las auditorías.
+9.2.3	
+Estas auditorías deben ser razonables, proporcionadas, y basadas en el riesgo. Estas auditorías 
+deben consistir en procesos de auditoría interna u otros procedimientos que revisen los procedi­mientos, 
+controles y sistemas para:
+a)	 soborno o sospecha de soborno;
+b)	 violación de los requisitos de la política antisoborno o del sistema de gestión antisoborno;
+c)	
+fracaso de que los socios de negocios se ajusten a los requisitos antisoborno aplicables de la 
+organización; y;
+d)	 debilidades u oportunidades de mejora en el sistema de gestión antisoborno.
+9.2.4	
+Para asegurar la objetividad e imparcialidad de esos programas de auditoría, la organización 
+debe asegurarse de que estas auditorías se efectúen por:
+a)	 una función independiente o por personal establecido o designado para este proceso; o
+b)	 la función de cumplimiento antisoborno (a menos que el alcance de la auditoría incluya una 
+evaluación del propio sistema de gestión antisoborno, o un trabajo similar para el que la función de 
+cumplimiento antisoborno sea responsable); o
+c)	
+una persona apropiada de un departamento o función distintos del que está siendo auditado;
+d)	 una tercera parte apropiada; o
+e)	 un grupo que comprenda cualquiera de a) a d).
+La organización debe asegurarse de que ningún auditor esté realizando la auditoría de su propia área 
+de trabajo.
+NOTA	
+Véase el Capítulo A.16 para orientación.
+9.3	 Revisión por la dirección
+9.3.1	
+Revisión por la alta dirección
+La alta dirección debe revisar el sistema de gestión antisoborno de la organización a intervalos 
+planificados, para asegurarse de su conveniencia, adecuación y eficacia continua.
+﻿
+Traducción oficial/Official translation/Traduction officielle
+20
+© ISO 2016 – Todos los derechos reservados
+Licensed to SOLUCIONES TECNOLÓGICAS EN GESTIÓN S.C. / FRANCISCO GUTIÉRREZ (fgutierrez@stratega.biz) 
+ISO Store Order: OP-561974 / Downloaded: 2021-11-11 
+Single user licence only, copying and networking prohibited.
+﻿
+ISO 37001:2016 (traducción oficial)
+La revisión por la alta dirección debe incluir consideraciones sobre:
+a)	 el estado de las acciones de las revisiones por la dirección previas;
+b)	 los cambios en las cuestiones externas e internas que sean pertinentes al sistema de gestión 
+antisoborno;
+c)	
+la información sobre el desempeño del sistema antisoborno, incluidas las tendencias relativas a:
+1)	 no conformidades y acciones correctivas;
+2)	 resultados de seguimiento y mediciones;
+3)	 resultados de las auditorías;
+4)	 reporte de sobornos;
+5)	 investigaciones;
+6)	 la naturaleza y extensión de los riesgos de soborno que enfrenta la organización;
+d)	 la eficacia de las medidas adoptadas para hacer frente a los riesgos de soborno;
+e)	 las oportunidades de mejora continua del sistema de gestión antisoborno, que se mencionan en el 
+apartado 10.2.
+Los resultados de la revisión por la alta dirección deben incluir las decisiones relacionadas con las 
+oportunidades de mejora y cualquier necesidad de cambio en el sistema de gestión antisoborno.
+Un resumen de los resultados de la revisión por la alta dirección debe ser comunicado al órgano de 
+gobierno (si existe).
+La organización debe conservar información documentada como evidencia de los resultados de las 
+revisiones por la alta dirección.
+9.3.2	
+Revisión por el órgano de gobierno
+El órgano de gobierno (si existe) se debe encargar de examinar periódicamente el sistema de gestión 
+antisoborno con base en la información proporcionada por la alta dirección y por la función de 
+cumplimiento antisoborno y cualquier otra información que el órgano de gobierno puede solicitar u 
+obtener.
+La organización debe conservar el resumen de la información documentada como evidencia de los 
+resultados de las revisiones del órgano de gobierno.
+9.4	 Revisión por la función de cumplimiento antisoborno
+La función de cumplimiento antisoborno debe evaluar de forma continua si el sistema de gestión 
+antisoborno es:
+a)	 adecuado para gestionar eficazmente los riesgos de soborno a los que se enfrenta la organización;
+b)	 está siendo implementado de manera eficaz.
+La función de cumplimiento antisoborno debe informar a intervalos planificados y sobre una base 
+ad hoc, si es apropiado, al órgano de gobierno (si existe) y a la alta dirección, o a un comité apropiado 
+del órgano de gobierno o de la alta dirección, sobre la adecuación y la implementación del sistema de 
+gestión antisoborno, incluyendo los resultados de las investigaciones y auditorías.
+NOTA 1	
+La frecuencia de tales informes depende de los requisitos de la organización, pero se recomienda que 
+sean al menos una vez al año.
+﻿
+Traducción oficial/Official translation/Traduction officielle
+© ISO 2016 – Todos los derechos reservados
+21
+Licensed to SOLUCIONES TECNOLÓGICAS EN GESTIÓN S.C. / FRANCISCO GUTIÉRREZ (fgutierrez@stratega.biz) 
+ISO Store Order: OP-561974 / Downloaded: 2021-11-11 
+Single user licence only, copying and networking prohibited.
+﻿
+ISO 37001:2016 (traducción oficial)
+NOTA 2	
+La organización puede usar un socio de negocios para ayudar en la revisión, siempre y cuando las 
+observaciones de la otra organización se comuniquen adecuadamente a la función de cumplimiento antisoborno, 
+a la alta dirección y si es apropiado, al órgano de gobierno (si existe).
+10	Mejora
+10.1	No conformidades y acciones correctivas
+Cuando ocurre una no conformidad, la organización debe:
+a)	 reaccionar inmediatamente ante la no conformidad, y según sea aplicable:
+1)	 tomar acciones para controlarla y corregirla;
+2)	 hacer frente a las consecuencias;
+b)	 evaluar la necesidad de acciones para eliminar las causas de la no conformidad, con el fin de que no 
+vuelva a ocurrir ni ocurra en otra parte, mediante:
+1)	 la revisión de la no conformidad;
+2)	 la determinación de las causas de la no conformidad, y;
+3)	 la determinación de si existen no conformidades similares, o que potencialmente podrían 
+ocurrir;
+c)	
+implementar cualquier acción necesaria;
+d)	 revisar la eficacia de cualquier acción correctiva tomada;
+e)	 si fuera necesario, hacer cambios al sistema de gestión antisoborno.
+Las acciones correctivas deben ser apropiadas a los efectos de las no conformidades encontradas.
+La organización debe conservar información documentada adecuada, como evidencia de:
+—	 la naturaleza de las no conformidades y cualquier acción tomada posteriormente;
+—	 los resultados de cualquier acción correctiva.
+NOTA	
+Véase el Capítulo A.20 para orientación.
+10.2	Mejora continua
+La organización debe mejorar continuamente la idoneidad, adecuación, y eficacia del sistema de gestión 
+antisoborno.
+NOTA	
+Véase el Capítulo A.20 para orientación.
+﻿
+Traducción oficial/Official translation/Traduction officielle
+22
+© ISO 2016 – Todos los derechos reservados
+Licensed to SOLUCIONES TECNOLÓGICAS EN GESTIÓN S.C. / FRANCISCO GUTIÉRREZ (fgutierrez@stratega.biz) 
+ISO Store Order: OP-561974 / Downloaded: 2021-11-11 
+Single user licence only, copying and networking prohibited.
+﻿
+ISO 37001:2016 (traducción oficial)
+Anexo A
+(informativo)
+
+Orientación sobre el uso de esta Norma Internacional
+A.1	 Generalidades
+La orientación en este Anexo es solamente ilustrativa. Su finalidad es indicar, en algunas áreas 
+específicas, el tipo de acciones que una organización puede tomar en la implementación de su sistema 
+de gestión antisoborno. Este no pretende ser exhaustivo ni prescriptivo, ni es requerido que una 
+organización implemente las siguientes medidas con el fin de tener un sistema de gestión antisoborno 
+que cumpla con los requisitos de este documento. Los pasos dados por la organización deberían ser 
+razonables y proporcionales teniendo en cuenta la naturaleza y alcance de los riesgos de soborno que 
+enfrenta la organización (véase 4.5, y los factores en 4.1 y 4.2).
+En la bibliografía se incluye una lista de publicaciones sobre buenas prácticas en gestión antisoborno 
+como una guía adicional.
+A.2	 Alcance del sistema de gestión antisoborno
+A.2.1	 Sistema de gestión antisoborno independiente o integrado
+La organización puede optar por implementar este sistema de gestión antisoborno como un sistema 
+independiente o como parte integrante de un sistema general de gestión de cumplimiento (en cuyo 
+caso, la organización puede consultar para orientación la Norma ISO 19600). La organización también 
+puede optar por implementar este sistema de gestión antisoborno en paralelo a, o como parte de, sus 
+otros sistemas de gestión, como los de gestión de la calidad, gestión ambiental y gestión de la seguridad 
+de la información (en cuyo caso la organización puede referirse a las Normas ISO 9001, ISO 14001, e 
+ISO/IEC 27001), así como ISO 26000 e ISO 31000.
+A.2.2	 Pagos de facilitación y extorsión
+A.2.2.1	 Pagos de facilitación es el término que se da a veces a un pago ilegal o no oficial realizado a 
+cambio de servicios que el pagador está legalmente autorizado para recibir sin realizar dicho pago. 
+Normalmente es un pago relativamente menor hecho a un funcionario público o una persona con una 
+función de certificación con el fin de asegurar o agilizar el curso de un trámite o acción necesaria, tales 
+como la emisión de una visa, permiso de trabajo, despacho de aduanas o la instalación de un teléfono. A 
+pesar de que los pagos de facilitación son a menudo considerados como de naturaleza diferente a, por 
+ejemplo, un soborno pagado para ganar negocios, son ilegales en la mayoría de lugares, y son tratados 
+como sobornos a los efectos de este documento y, por lo tanto, deben prohibirse por el sistema de gestión 
+de antisoborno de la organización.
+A.2.2.2	 Un pago de extorsión es cuando el dinero es extraído por la fuerza por parte del personal por 
+amenazas reales o percibidas contra la salud, la seguridad o la libertad y está fuera del alcance de este 
+documento. La seguridad y la libertad de una persona es de suma importancia y muchos sistemas legales 
+no penalizan que alguien que tema razonablemente por su propia salud, seguridad o libertad, o la de otra 
+persona, realice un pago. Por lo tanto, la organización puede tener una política para permitir un pago 
+por parte del personal en circunstancias en las que este tenga miedo al peligro inminente por su propia 
+salud, seguridad o libertad o la de otra persona.
+﻿
+Traducción oficial/Official translation/Traduction officielle
+© ISO 2016 – Todos los derechos reservados
+23
+Licensed to SOLUCIONES TECNOLÓGICAS EN GESTIÓN S.C. / FRANCISCO GUTIÉRREZ (fgutierrez@stratega.biz) 
+ISO Store Order: OP-561974 / Downloaded: 2021-11-11 
+Single user licence only, copying and networking prohibited.
+﻿
+ISO 37001:2016 (traducción oficial)
+A.2.2.3	 La organización debería proporcionar a cualquier miembro del personal que se le haya 
+presentado solicitudes o demandas de pago, orientación específica sobre cómo evitarlos y tratar con 
+ellos. Dicha orientación podría incluir, por ejemplo:
+a)	 acciones específicas que ha de adoptar cualquier miembro del personal que se enfrente con una 
+demanda de pago, tales como:
+1)	 en el caso de un pago de facilitación, pedir una prueba de que el pago es legítimo, y un recibo 
+oficial de pago y, si no hay una prueba satisfactoria disponible, negarse a hacer el pago;
+2)	 en el caso de un pago de la extorsión, hacer el pago si su salud, seguridad o libertad, o la de otro, 
+se ve amenazada;
+b)	 especificar la acción que debe tomar el personal que haya hecho un pago de facilitación o extorsión:
+1)	 hacer un registro del evento;
+2)	 informar del hecho a un director apropiado o a la función de cumplimiento antisoborno;
+c)	
+especificar la acción que será adoptada por la organización cuando el personal haya hecho un pago 
+de facilitación o extorsión:
+1)	 se nombra a un director adecuado para investigar el evento (preferentemente de la función de 
+cumplimiento antisoborno o un gerente que es independiente del personal del departamento o 
+función);
+2)	 registrar correctamente el pago en cuentas de la organización;
+3)	 en su caso, o si es requerido por la ley, informar del pago a las autoridades pertinentes.
+A.3	 Razonable y proporcional
+A.3.1	
+El soborno normalmente se oculta. Este puede ser difícil de prevenir, detectar y enfrentar. 
+Reconociendo estas dificultades, la intención general de este documento es que el órgano de gobierno (si 
+existe) y la alta dirección de una organización necesitan tener:
+—	 un compromiso genuino para prevenir, detectar y enfrentar al soborno en relación con negocios o 
+actividades de la organización;
+—	 con intención genuina, implementar medidas en la organización que estén diseñadas para prevenir, 
+detectar y enfrentar al soborno.
+Las medidas no pueden ser tan costosas, complicadas y burocráticas que sean inasequibles o detener 
+las actividades de un negocio. Tampoco pueden ser tan simples e ineficaces que hagan que el soborno 
+pueda fácilmente ocurrir. Las medidas tienen que ser adecuadas al riesgo de soborno, y deberían tener 
+una posibilidad razonable de éxito en su objetivo de prevenir, detectar y enfrentar al soborno.
+A.3.2	
+Si bien los tipos de medidas antisoborno que necesitan implementarse son razonablemente 
+bien reconocidas por las buenas prácticas internacionales, y algunas de las cuales se reflejan como 
+requisitos de este documento, el detalle de las medidas que se implementarán difieren ampliamente de 
+acuerdo con las circunstancias pertinentes. Por lo tanto, es imposible prescribir exactamente lo que una 
+organización debería hacer en cualquier circunstancia particular. La calificación de la “razonabilidad 
+y proporcionalidad” se ha introducido en este documento, de manera que cada circunstancia pueda 
+juzgarse por sus propios méritos.
+﻿
+Traducción oficial/Official translation/Traduction officielle
+24
+© ISO 2016 – Todos los derechos reservados
+Licensed to SOLUCIONES TECNOLÓGICAS EN GESTIÓN S.C. / FRANCISCO GUTIÉRREZ (fgutierrez@stratega.biz) 
+ISO Store Order: OP-561974 / Downloaded: 2021-11-11 
+Single user licence only, copying and networking prohibited.
+﻿
+ISO 37001:2016 (traducción oficial)
+A.3.3	
+Los siguientes ejemplos pueden servir de orientación sobre cómo la calificación “razonable y 
+proporcional” se puede aplicar en relación con las diferentes circunstancias.
+a)	 Una organización multinacional muy grande puede tener que tratar con múltiples niveles de 
+gestión, y miles de personas. Su sistema de gestión antisoborno será, por consiguiente, mucho más 
+detallado que el de una organización pequeña con poco personal.
+b)	 Una organización que tiene actividades en un lugar donde exista un alto riesgo de soborno 
+necesitará normalmente una evaluación del riesgo de soborno más exhaustiva y procedimientos 
+de debida diligencia y un mayor nivel de control antisoborno en sus transacciones comerciales, en 
+lugar de una organización que solo tiene actividades en una ubicación de menor riesgo de soborno, 
+donde el soborno es relativamente raro.
+c)	
+A pesar de que el riesgo de soborno existe en relación con varias transacciones o actividades, 
+la evaluación del riesgo de soborno, los procedimientos de debida diligencia y los controles 
+antisoborno implementados por una organización involucrada en una transacción de alto valor 
+o actividades que impliquen una amplia gama de socios de negocios, es probable que sean más 
+amplios que los implementados por una organización en relación con un negocio que implica la 
+venta de artículos de menor valor a los múltiples clientes o muchas transacciones más pequeñas 
+con un solo grupo.
+d)	 Una organización con una gama muy amplia de socios de negocios puede concluir, como parte de su 
+evaluación del riesgo de soborno, que ciertas categorías de socios de negocios, tales como clientes 
+al por menor, tienen poca probabilidad de representar  más que un riesgo bajo de soborno, y tenerlo 
+en cuenta en el diseño e implementación de su sistema de gestión antisoborno. Por ejemplo, la 
+debida diligencia es poco probable que sea necesaria, o sea un control proporcional y razonable, en 
+relación con los clientes minoristas que están comprando artículos tales como bienes de consumo 
+de la organización.
+A.3.4	
+Si bien existe el riesgo de soborno en relación con varias transacciones, una organización debería 
+implementar un nivel más amplio de control de antisoborno durante una transacción de alto riesgo de 
+soborno que de una transacción de bajo riesgo de soborno. En este contexto, es importante entender que 
+la identificación y la aceptación de un bajo riesgo de soborno no significan que la organización puede 
+aceptar el hecho de que se produzca el soborno. Es decir, el riesgo de que se produzca un soborno (es 
+decir, si se puede producir un soborno) no es lo mismo que la ocurrencia de un soborno (el hecho del 
+soborno en sí mismo). Por lo tanto, una organización puede tener una “tolerancia cero” para la ocurrencia 
+de un soborno al tiempo que se dedica al comercio en situaciones en las que puede haber un bajo riesgo 
+de soborno, o más que un riesgo bajo de soborno (siempre y cuando se apliquen las medidas adecuadas 
+de mitigación). La orientación adicional sobre los controles específicos se proporciona a continuación.
+A.4	 Evaluación del riesgo del soborno
+A.4.1	
+La intención de la evaluación del riesgo del soborno requerido por 4.5 es permitir a la 
+organización formar una base sólida para su sistema de gestión antisoborno. Esta evaluación identifica 
+los riesgos de soborno en los que el sistema de gestión se enfocará, es decir, los riesgos de soborno 
+considerados por la organización como una prioridad para la mitigación de riesgos, la implementación 
+del control, y la asignación de personal de cumplimiento, recursos y actividades. Cómo la organización 
+lleva a cabo la evaluación del riesgo de soborno, la metodología que emplea, cómo los riesgos de soborno 
+se ponderan y se priorizan, y el nivel de riesgo de soborno que se acepta (es decir, “apetito de riesgo”) 
+o tolera, son todos a criterio de la organización. En particular, es la organización la que establece los 
+criterios para evaluar el riesgo de soborno (por ejemplo, si un riesgo es “bajo”, “medio” o “alto”), sin 
+embargo, al hacerlo, la organización debería tener en cuenta su política y objetivos antisoborno.
+A continuación, se proporciona un ejemplo de cómo una organización puede optar por emprender esta 
+evaluación.
+a)	 Seleccionar los criterios de evaluación del riesgo de soborno. Por ejemplo, la organización puede 
+seleccionar un criterio de 3 niveles (por ejemplo: como “bajo”, “medio”, “alto”), criterios más 
+﻿
+Traducción oficial/Official translation/Traduction officielle
+© ISO 2016 – Todos los derechos reservados
+25
+Licensed to SOLUCIONES TECNOLÓGICAS EN GESTIÓN S.C. / FRANCISCO GUTIÉRREZ (fgutierrez@stratega.biz) 
+ISO Store Order: OP-561974 / Downloaded: 2021-11-11 
+Single user licence only, copying and networking prohibited.
+﻿
+ISO 37001:2016 (traducción oficial)
+detallados  con 5 o 7 niveles o un enfoque más detallado. Los criterios a menudo tienen en cuenta 
+varios factores, incluyendo la naturaleza del riesgo de soborno, la probabilidad de que se produzca 
+el soborno, y la magnitud de las consecuencias, en caso de producirse.
+b)	 Evaluar los riesgos de soborno planteados por el tamaño y la estructura de la organización. Una 
+pequeña organización basada en un solo lugar con los controles de gestión centralizados en manos 
+de unas pocas personas puede ser capaz de controlar su riesgo de soborno más fácilmente que una 
+organización muy grande con una estructura descentralizada que opera en muchos lugares.
+c)	
+Examinar los lugares y sectores en los que opera la organización o anticiparse a las operaciones, 
+y evaluar el nivel de riesgo de soborno que estos lugares y sectores pueden plantear. Un índice de 
+soborno apropiado se puede utilizar para ayudar en esta evaluación. Lugares o sectores con un 
+mayor riesgo de soborno pueden ser considerados por la organización, por ejemplo, como de riesgo 
+“medio” o “alto”, lo que puede dar lugar a que la organización establezca un nivel más alto para los 
+controles aplicables a las actividades de la organización en esos lugares o sectores.
+d)	 Examinar la naturaleza, magnitud y complejidad de los tipos de actividades y operaciones de la 
+organización.
+1)	 Por ejemplo, puede ser más fácil controlar el riesgo de soborno de una organización que lleva 
+a cabo una pequeña operación de fabricación, en un lugar, que el de una organización que está 
+involucrada en numerosos proyectos de construcción grandes en varios lugares.
+2)	 Algunas actividades pueden llevar a riesgos específicos de soborno. Por ejemplo, disposiciones 
+de compensación, mediante las cuales el gobierno compra productos o servicios, requiere 
+que el proveedor reinvierta una proporción del valor del contrato en el país de compra. La 
+organización debería tomar las medidas apropiadas para prevenir que los acuerdos de com­
+pensación constituyan soborno.
+e)	 Examinar los tipos existentes y potenciales de socios de negocios por categorías de la organización, 
+y, en principio, evaluar el riesgo de soborno que se plantean. Por ejemplo:
+1)	 La organización puede tener un gran número de clientes que compran productos de muy bajo 
+valor, y que en la práctica suponen un riesgo mínimo para el soborno de la organización. En este 
+caso, la organización considera estos clientes en bajo riesgo de soborno, y puede determinar 
+que estos clientes no necesitan tener ningún tipo de control específico antisoborno relacionado 
+con el mismo. Por otra parte, la organización puede hacer tratos con los clientes que compran 
+productos de valores muy grandes de la organización, y puede suponer un riesgo significativo 
+de soborno (por ejemplo, el riesgo de sobornos por parte de la organización exigiendo a cambio 
+pagos, homologaciones, etc.). Este tipo de clientes se pueden considerar, por ejemplo, como de 
+riesgo “medio” o “alto” de soborno, por lo que requieren un mayor nivel de control antisoborno 
+por la organización.
+2)	 Las diferentes categorías de proveedores pueden presentar diferentes niveles de riesgo de 
+soborno. Por ejemplo, los proveedores con un gran alcance del trabajo, o que pueden estar en 
+contacto con los clientes de la organización, o los funcionarios públicos pertinentes, puede 
+suponer un riesgo de soborno “medio” o “alto”. Algunas categorías de proveedores pueden ser 
+de riesgo “bajo”, por ejemplo, proveedores establecidos en lugares de bajo riesgo de soborno 
+que no tienen interfaz con los funcionarios públicos pertinentes a la transacción o clientes de 
+la organización. Algunas categorías de proveedores pueden suponer un riesgo “muy bajo” de 
+soborno, por ejemplo, proveedores de bajas cantidades de artículos de bajo valor, servicios de 
+compra en línea para el transporte aéreo u hoteles, etc. La organización podría concluir que los 
+controles específicos antisoborno no necesitan implementarse en relación con estos proveedo­
+res de bajo o muy bajo riesgo de soborno.
+﻿
+Traducción oficial/Official translation/Traduction officielle
+26
+© ISO 2016 – Todos los derechos reservados
+Licensed to SOLUCIONES TECNOLÓGICAS EN GESTIÓN S.C. / FRANCISCO GUTIÉRREZ (fgutierrez@stratega.biz) 
+ISO Store Order: OP-561974 / Downloaded: 2021-11-11 
+Single user licence only, copying and networking prohibited.
+﻿
+ISO 37001:2016 (traducción oficial)
+3)	 Agentes o intermediarios que interactúan con los clientes de la organización o funcionarios 
+públicos en representación de la organización tienen más probabilidad de suponer un riesgo 
+“medio” o “alto” de soborno, especialmente si se les paga una comisión o una tarifa por éxito.
+f)	
+Examinar la naturaleza y frecuencia de las interacciones con los funcionarios públicos nacionales 
+o extranjeros que pueden suponer un riesgo para el soborno. Por ejemplo, las interacciones con los 
+funcionarios públicos responsables de la emisión de permisos y aprobaciones pueden suponer un 
+riesgo para el soborno.
+g)	 Examinar las obligaciones y deberes estatutarios, reglamentarios, contractuales y profesionales 
+aplicables como, por ejemplo, la prohibición o limitación de agasajos de funcionarios públicos o de 
+la utilización de agentes.
+h)	 Considerar el grado en que la organización es capaz de influir o controlar los riesgos evaluados.
+Los factores de riesgo de soborno arriba mencionados se interrelacionan. Por ejemplo, los proveedores 
+de la misma categoría pueden suponer un riesgo para el soborno diferente en función del lugar en el 
+que operan.
+A.4.2	
+Tras evaluar los riesgos de soborno pertinentes, la organización puede determinar el tipo y nivel 
+de los controles antisoborno que se aplica a cada categoría de riesgo, y puede evaluar si los controles 
+existentes son adecuados. Si no, los controles se pueden mejorar de manera apropiada. Por ejemplo, un 
+mayor nivel de control es probable que se implemente con respecto a los lugares de riesgo más altos 
+de soborno y categorías de riesgo de soborno más altas de socios de negocios. La organización puede 
+determinar que es aceptable tener un nivel de control bajo sobre las actividades o socios de negocios 
+de bajo riesgo de soborno. Algunos de los requisitos de esta norma excluyen expresamente la necesidad 
+de aplicar esos requisitos a las actividades o socios de negocios de bajo riesgo de soborno (aunque la 
+organización podrá optar por aplicárselos si lo desea).
+A.4.3	
+La organización puede cambiar la naturaleza de la transacción, proyecto, actividad o relación de 
+tal manera que la naturaleza y alcance del riesgo de soborno se reduzcan a un nivel que puedan ser 
+gestionados adecuadamente por los controles antisoborno mejorados o adicionales existentes.
+A.4.4	
+Este ejercicio de evaluación del riesgo de soborno no está destinado a ser un ejercicio extenso o 
+demasiado complejo. Tampoco los resultados de la evaluación van a ser necesariamente correctos (por 
+ejemplo, una transacción evaluada como de bajo riesgo de soborno puede resultar haber involucrado 
+un soborno). En la medida que sea razonablemente posible, los resultados de la evaluación del riesgo 
+de soborno deberían reflejar los riesgos de soborno reales que enfrenta la organización. El ejercicio 
+debe diseñarse como una herramienta para ayudar a la organización a evaluar y priorizar el riesgo de 
+soborno, y debe examinarse y revisarse de manera regular con base en los cambios en la organización 
+o en las circunstancias (por ejemplo, nuevos mercados o productos, requisitos legales, la experiencia 
+adquirida, etc.).
+NOTA	
+Orientación adicional se puede encontrar en la Norma ISO 31000.
+A.5	 Funciones y responsabilidades del órgano de gobierno y la alta dirección
+A.5.1	
+Muchas organizaciones tienen algún tipo de órgano de gobierno, tal como un consejo de 
+administración o consejo de control, que tiene responsabilidades de supervisión general con respecto a 
+la organización. Estas responsabilidades incluyen la supervisión sobre el sistema de gestión antisoborno 
+de la organización. Sin embargo, el órgano de gobierno generalmente no ejerce dirección día a día sobre 
+las actividades de la organización. Esa es la función de la dirección ejecutiva (por ejemplo, el director 
+ejecutivo, director de operaciones, etc.), la misma a la que este documento se refiere como la “alta 
+dirección”. Por lo tanto, con respecto al sistema de gestión antisoborno, el órgano de gobierno debería 
+estar bien informado sobre el contenido y el funcionamiento del sistema y debería ejercer supervisión 
+razonable con respecto a la adecuación, eficacia e implementación del sistema. Regularmente debería 
+recibir información sobre el desempeño del sistema mediante el proceso de revisión de la gestión (este 
+﻿
+Traducción oficial/Official translation/Traduction officielle
+© ISO 2016 – Todos los derechos reservados
+27
+Licensed to SOLUCIONES TECNOLÓGICAS EN GESTIÓN S.C. / FRANCISCO GUTIÉRREZ (fgutierrez@stratega.biz) 
+ISO Store Order: OP-561974 / Downloaded: 2021-11-11 
+Single user licence only, copying and networking prohibited.
+﻿
+ISO 37001:2016 (traducción oficial)
+podría ser para todo el órgano de gobierno, o un comité del órgano, como el comité de auditoría). En 
+ese sentido, la función de cumplimiento antisoborno debería ser capaz de reportar información sobre el 
+sistema directamente al órgano de gobierno (o a una comisión del mismo).
+A.5.2	
+Algunas organizaciones, particularmente las más pequeñas, pueden no tener un órgano de 
+gobierno independiente o los roles del órgano de gobierno y de la dirección ejecutiva pueden estar 
+combinados en un grupo o aún en un individuo. En tales casos, el grupo o individuo tendrán las 
+responsabilidades asignadas en este documento a la alta dirección y al órgano de gobierno.
+NOTA	
+El compromiso de liderazgo con frecuencia se conoce como “tono en la cúspide” o “tono desde la 
+cúspide”.
+A.6	 Función de cumplimiento antisoborno
+A.6.1	
+El número de personas que trabajan en la función de cumplimiento antisoborno depende de 
+factores como el tamaño de la organización, el grado de riesgo de soborno que enfrenta la organización y 
+la carga de trabajo resultante de la función. En una pequeña organización, es probable que la función de 
+cumplimiento antisoborno la desarrolle una persona a quien se le asigne esta responsabilidad a tiempo 
+parcial y quien combine esta responsabilidad con otras responsabilidades. Cuando lo justifiquen el grado 
+de riesgo de soborno y carga de trabajo resultante, la función de cumplimiento antisoborno puede hacerla 
+una persona a la que se le asigne la responsabilidad a tiempo completo. En organiza­ciones grandes, la 
+función suele ser atendida por varias personas. Algunas organizaciones pueden asignar responsabilidad a 
+un comité que incorpore una gama de conocimientos especializados pertinentes. Algunas organizaciones 
+pueden optar por utilizar un tercero para realizar parte o la totalidad de la función de cumplimiento 
+antisoborno, y esto es aceptable siempre que un supervisor apropiado, dentro de la organización, tenga 
+la autoridad y responsabilidad general sobre la función de cumplimiento antisoborno y supervise los 
+servicios prestados por una tercera parte.
+A.6.2	
+Este documento exige que la función de cumplimiento antisoborno esté compuesta por personas 
+que tengan la competencia, estatus, autoridad e independencia adecuados:
+a)	 “competencia” significa que las personas pertinentes tengan una educación, competencia o 
+experiencia apropiadas, la capacidad personal para afrontar las exigencias de la función y la 
+capacidad para aprender sobre el papel y realizarlo adecuadamente;
+b)	 “estatus” significa que otras personas son propensas a escuchar y respetar las opiniones de la 
+persona asignada a la responsabilidad de cumplimiento;
+c)	
+“autoridad” significa que a la persona pertinente asignada para la responsabilidad de cumplimiento 
+le sean concedidos poderes suficientes por el órgano de gobierno (si existe) y la alta dirección así 
+como para poder realizar con eficacia las responsabilidades de cumplimiento;
+d)	 “independencia” significa que la persona pertinente asignada para la responsabilidad de cumpli­
+miento, tanto como sea posible, no esté involucrada personalmente en las actividades de la 
+organi­zación que se exponen al riesgo de soborno. Esto puede lograrse más fácilmente cuando la 
+organización ha designado una persona para manejar el rol a tiempo completo, pero es más difícil 
+para una organización más pequeña en la que se ha designado una persona para combinar el rol 
+de cumplimiento con otras funciones. Cuando la función de cumplimiento antisoborno es a tiempo 
+parcial, la función no debería realizarse por un individuo que puede estar expuesto a soborno al 
+realizar su función primaria. En el caso de una organización muy pequeña, donde puede ser más 
+difícil lograr la independencia, la persona adecuada debería, según su capacidad, separar sus otras 
+responsabilidades de sus responsabilidades de cumplimiento con el fin de ser imparcial.
+A.6.3	
+Es importante que la función de cumplimiento antisoborno tenga acceso directo a la alta dirección 
+y, al órgano de gobierno (si existe), con el fin de comunicar información relevante. La función no debería 
+tener que informar únicamente a otro director de la cadena que luego informe a la alta dirección, ya que 
+esto aumenta el riesgo de que el mensaje dado por la función de cumplimiento antisoborno no sea total 
+﻿
+Traducción oficial/Official translation/Traduction officielle
+28
+© ISO 2016 – Todos los derechos reservados
+Licensed to SOLUCIONES TECNOLÓGICAS EN GESTIÓN S.C. / FRANCISCO GUTIÉRREZ (fgutierrez@stratega.biz) 
+ISO Store Order: OP-561974 / Downloaded: 2021-11-11 
+Single user licence only, copying and networking prohibited.
+﻿
+ISO 37001:2016 (traducción oficial)
+o claramente recibido por la alta dirección. La función de cumplimiento antisoborno también debería 
+tener una relación de comunicación directa con el órgano de gobierno (si existe), sin tener que pasar por 
+la alta dirección. Esto puede producirse con el órgano de gobierno completo (por ejemplo, un consejo de 
+administración o un consejo de control) o con un comité especialmente delegado del órgano de gobierno 
+o la alta dirección (por ejemplo, un comité de auditoría o de ética).
+A.6.4	
+La responsabilidad primordial de la función de cumplimiento antisoborno es supervisar el diseño 
+e implementación del sistema de gestión antisoborno. Esto no debería confundirse con la responsabilidad 
+directa de la actuación antisoborno de la organización y el cumplimiento de las leyes antisoborno. Cada 
+uno es responsable de llevar a cabo de una manera ética y obediente, conforme a los requisitos del 
+sistema de gestión antisoborno de la organización y las leyes antisoborno. Es particularmente importante 
+que la dirección tome el liderazgo en el cumplimiento de las partes de la organización sobre las que tiene 
+responsabilidad.
+NOTA	
+Una orientación adicional puede encontrarse en la Norma ISO 19600.
+A.7	 Recursos
+Los recursos necesarios dependen de factores como el tamaño de la organización, la naturaleza de sus 
+operaciones y los riesgos de soborno que enfrenta. Los recursos incluyen, por ejemplo.
+a)	 Recursos humanos: Debería haber suficiente personal capaz de brindar tiempo suficiente a sus 
+responsabilidades antisoborno pertinentes, para que el sistema de gestión antisoborno pueda 
+funcionar con eficacia. Esto incluye la asignación de suficientes personas (ya sean internas o 
+externas) a la función de cumplimiento antisoborno.
+b)	 Recursos físicos: Deberían existir los recursos físicos necesarios en la organización, incluyendo a 
+la función de cumplimiento antisoborno, para que el sistema de gestión antisoborno funcione con 
+eficacia. Por ejemplo, espacio de oficina, muebles, hardware y software de computadoras, materia­
+les para formación, teléfonos, papelería, etc.
+c)	
+Recursos financieros: Debería existir un presupuesto suficiente, incluyendo a la función de 
+cumplimiento antisoborno, para que el sistema de gestión antisoborno funcione con eficacia.
+A.8	 Procedimientos de contratación
+A.8.1	 Debida diligencia sobre el personal
+Al realizar la debida diligencia sobre las personas antes de que se les nombre como personal, la 
+organización, dependiendo de las funciones propuestas y el correspondiente riesgo de soborno de las 
+personas puede tomar acciones tales como:
+a)	 discutir la política antisoborno de la organización con los candidatos en la entrevista y formarse 
+una opinión acerca de si parece entender y aceptar la importancia del cumplimiento;
+b)	 tomar medidas razonables para verificar que las calificaciones de los candidatos son precisas;
+c)	
+tomar medidas razonables para obtener referencias satisfactorias de los patrones anteriores del 
+personal potencial;
+d)	 tomar medidas razonables para determinar si los candidatos han participado en soborno;
+e)	 tomar medidas razonables para verificar que la organización no ofrece empleo a candidatos a 
+cambio de haber, en el empleo anterior, indebidamente favorecido la organización;
+f)	
+verificar que la razón de ofrecer empleo a los candidatos no sea para asegurar un trato favorable 
+incorrecto para la organización;
+g)	 tomar medidas razonables para identificar relaciones de los candidatos con funcionarios públicos.
+﻿
+Traducción oficial/Official translation/Traduction officielle
+© ISO 2016 – Todos los derechos reservados
+29
+Licensed to SOLUCIONES TECNOLÓGICAS EN GESTIÓN S.C. / FRANCISCO GUTIÉRREZ (fgutierrez@stratega.biz) 
+ISO Store Order: OP-561974 / Downloaded: 2021-11-11 
+Single user licence only, copying and networking prohibited.
+﻿
+ISO 37001:2016 (traducción oficial)
+A.8.2	 Bonificaciones por desempeño
+Los acuerdos de compensación, incluyendo bonos e incentivos pueden alentar, incluso sin querer, al 
+personal para participar en el soborno. Por ejemplo, si un director recibe un bono en la adjudicación 
+de un contrato para la organización, ese director podría ser tentado a pagar un soborno, o hacer caso 
+omiso de que un agente o socio de una alianza empresarial paga un soborno, con el fin de garantizar 
+la adjudicación del contrato. El mismo resultado podría ocurrir si se pone demasiada presión en el 
+desempeño de un director (por ejemplo, si el director podría ser despedido por no lograr metas de 
+ventas demasiado ambiciosas). Por lo tanto, la organización necesita prestar mucha atención a estos 
+aspectos de compensación para asegurar en la medida de lo razonable que estos no actúen como 
+incentivos de soborno.
+Evaluaciones de personal, promociones, bonos y otras recompensas podrían utilizarse como incentivos 
+para que el personal tenga un desempeño de acuerdo con la política antisoborno y sistema de gestión 
+de la organización. Sin embargo, la organización necesita ser prudente en este caso, ya que la amenaza 
+de pérdida del bono, etc., puede resultar en que el personal oculte fallas en el sistema de gestión 
+antisoborno.
+El personal deberá ser consciente de que violar el sistema de gestión antisoborno con el fin de mejorar 
+su calificación de desempeño en otras áreas (por ejemplo, un logro de metas de ventas) no es aceptable 
+y puede resultar en una acción correctiva o disciplinaria.
+A.8.3	 Conflictos de interés
+La organización debería identificar y evaluar el riesgo de conflictos de interés internos y externos. 
+La organización debería informar claramente a todo el personal de su deber de informar cualquier 
+conflicto de intereses, tanto reales como potenciales, tales como conexiones familiares, financieras o de 
+otro tipo, relacionadas directa o indirectamente con su línea de trabajo. Esto ayuda a una organización 
+a identificar situaciones donde el personal puede facilitar o fallar a la hora de prevenir o informar sobre 
+el soborno, por ejemplo:
+a)	 cuando el gerente de ventas de la organización está relacionado con el gerente de compras de un 
+cliente, o
+b)	 cuando el gerente de línea de una organización tiene un interés financiero personal en el negocio de 
+un competidor.
+La organización debería preferentemente llevar un registro de cualquier caso de conflicto de intereses 
+reales o potenciales y de las acciones que fueron tomadas para mitigar el conflicto.
+A.8.4	 Soborno al personal de la organización
+A.8.4.1	 Las medidas necesarias para prevenir, detectar y abordar el riesgo del personal de la 
+organización que ha sobornando a otros en nombre de la organización (“soborno saliente”) pueden ser 
+diferentes de las medidas utilizadas para prevenir, detectar y abordar el riesgo de soborno al personal 
+de la organización (“soborno entrante”). Por ejemplo, la capacidad de identificar y mitigar el riesgo de 
+soborno entrante puede verse significativamente restringida por la disponibilidad de información que 
+no está bajo el control de la organización (por ejemplo, datos de transacciones con tarjeta de crédito y 
+cuenta de banco personal del empleado), ley aplicable (por ejemplo, ley de privacidad), u otros factores. 
+Como resultado, el número y tipo de controles disponibles de la organización para mitigar el riesgo de 
+soborno saliente superarán el número de controles que se pueden implementar para mitigar el riesgo de 
+soborno entrante.
+A.8.4.2	 Es más probable que ocurra el soborno al personal de la organización en relación con el 
+personal que es capaz de tomar o influir en las decisiones en nombre de la organización (por ejemplo, un 
+gerente de compras que puede otorgar contratos, un supervisor que puede aprobar el trabajo realizado, 
+un gerente que puede nombrar a personal o aprobar salarios o bonos, un empleado que prepara los 
+documentos para la concesión de licencias, permisos, etc.). Como el soborno es probablemente aceptado 
+﻿
+Traducción oficial/Official translation/Traduction officielle
+30
+© ISO 2016 – Todos los derechos reservados
+Licensed to SOLUCIONES TECNOLÓGICAS EN GESTIÓN S.C. / FRANCISCO GUTIÉRREZ (fgutierrez@stratega.biz) 
+ISO Store Order: OP-561974 / Downloaded: 2021-11-11 
+Single user licence only, copying and networking prohibited.
+﻿
+ISO 37001:2016 (traducción oficial)
+por el personal fuera del alcance de los sistemas de control de la organización, la capacidad de la 
+organización de prevenir o detectar estos sobornos puede ser limitada.
+A.8.4.3	 Además de los pasos mencionados en los apartados A.8.1 y A.8.3, podría mitigarse el riesgo de 
+soborno entrante por los siguientes requisitos de este documento que se ocupan del riesgo:
+a)	 la política antisoborno de la organización (véase 5.2) debería prohibir claramente la solicitud 
+y aceptación de sobornos por parte del personal de la organización y de cualquier persona que 
+trabaje en nombre de la organización;
+b)	 los materiales de orientación y de formación (véase 7.3) deberían reforzar la prohibición de solicitar 
+y aceptar sobornos e incluir:
+1)	 una guía para informar inquietudes sobre sobornos (véase 8.9);
+2)	 énfasis en la política de no represalias de la organización (véase 8.9);
+c)	
+la política de hospitalidad y regalos de la organización (véase 8.7) debería limitar la aceptación del 
+personal de regalos y hospitalidad;
+d)	 la publicación en el sitio web de la organización de la política antisoborno de la organización y de los 
+detalles de cómo denunciar el soborno ayuda a establecer expectativas con los socios de negocios, 
+a fin de disminuir la probabilidad de que los socios de negocios ofrezcan, o que el personal de la 
+organización solicite o acepte, un soborno;
+e)	 controles (véase 8.3 y 8.4) que requieran, por ejemplo, el uso de proveedores aprobados, licita­
+ciones competitivas, al menos dos firmas en los contratos adjudicados, autorizaciones de trabajo, 
+etc., reducen el riesgo de otorgar premios, aprobaciones, pagos o beneficios corruptos.
+A.8.4.4	 La organización también puede implementar procedimientos de auditoría para identificar 
+maneras en las que el personal puede explotar debilidades de control existentes para su beneficio 
+personal. Ejemplos de procedimientos podrían incluir:
+a)	 revisión de archivos de nómina para los registros de personal ficticio y duplicados;
+b)	 revisar los registros de gastos de negocio del personal para identificar el gasto inusual;
+c)	
+comparar información de archivo de nóminas de personal (por ejemplo, números de cuenta bancaria 
+personal y direcciones) con la cuenta bancaria y datos de la dirección en el archivo maestro de 
+proveedores de la organización para identificar posibles escenarios de conflicto de intereses.
+A.8.5	 Personal o trabajadores temporales
+En algunos casos, el personal o trabajadores temporales pueden ser proporcionados a la organización 
+por un proveedor de fuerza laboral u otro socio de negocios. En este caso, la organización debería 
+determinar si el riesgo de soborno planteado por el personal o trabajadores temporales (si existe) se 
+aborda adecuadamente al tratar al personal o trabajadores temporales como personal propio para fines 
+de formación y control, o si se van a implementar los controles adecuados a través del socio de negocios 
+que proporciona el personal o trabajadores temporales.
+A.9	 Toma de conciencia y formación
+A.9.1	
+El propósito de la formación es ayudar a asegurar que el personal pertinente entienda, según 
+corresponda a su función dentro o con la organización:
+a)	 los riesgos de soborno que ellos y la organización enfrentan;
+b)	 la política antisoborno;
+﻿
+Traducción oficial/Official translation/Traduction officielle
+© ISO 2016 – Todos los derechos reservados
+31
+Licensed to SOLUCIONES TECNOLÓGICAS EN GESTIÓN S.C. / FRANCISCO GUTIÉRREZ (fgutierrez@stratega.biz) 
+ISO Store Order: OP-561974 / Downloaded: 2021-11-11 
+Single user licence only, copying and networking prohibited.
+﻿
+ISO 37001:2016 (traducción oficial)
+c)	
+los aspectos del sistema de gestión antisoborno correspondientes a su función;
+d)	 cualquier acción preventiva, y de reporte necesaria que precisen realizar en relación a cualquier 
+riesgo o sospecha de soborno.
+A.9.2	
+La formalidad y el grado de la formación depende del tamaño de la organización y los riesgos de 
+soborno que enfrentan. Puede realizarse como un módulo en línea, o a través de métodos presenciales 
+(por ejemplo, sesiones de aula, talleres, mesas redondas entre el personal pertinente, o por sesiones 
+personalizadas). Por lo tanto, más importante que el método de formación es el resultado, que es que 
+todo el personal pertinente debería entender las cuestiones mencionadas en el apartado A.9.1.
+A.9.3	
+Se recomienda la formación presencial para el órgano de gobierno y el personal (cualquiera 
+que sea su posición o jerarquía dentro de la organización) y socios de negocios que participan en las 
+operaciones y procesos con más que un riesgo bajo de soborno.
+A.9.4	
+En caso de que la persona pertinente asignada a la función de cumplimiento antisoborno no 
+tenga experiencia suficiente en relación a su función, la organización debería proporcionar la formación 
+que fuera necesaria para que él o ella pudieran llevar a cabo adecuadamente la función de cumplimiento.
+A.9.5	
+La formación puede tener lugar como formación independiente en materia antisoborno, o 
+puede formar parte de la formación global o el programa de inducción de la organización en materia de 
+cumplimiento y ética.
+A.9.6	
+El contenido de la formación puede adaptarse a la función del personal. El personal que no 
+enfrenta ningún riesgo significativo frente al soborno en su rol podría recibir formación muy simple 
+sobre la política de la organización, para que entienda la misma y sepa qué hacer si observa una violación 
+potencial. El personal cuya función implica un riesgo alto de soborno debería recibir una formación más 
+detallada.
+A.9.7	
+La formación debería repetirse tantas veces como fuera necesario para que el personal esté al 
+día con las políticas y procedimientos de la organización, los desarrollos en relación con su función y los 
+cambios regulatorios.
+A.9.8	
+La aplicación de los requisitos de formación y toma de conciencia a los socios identificados bajo 
+los requisitos del apartado 7.3, plantea desafíos particulares porque los empleados de estos socios de 
+negocios generalmente no trabajan directamente para la organización y la organización, por lo general, no 
+tendrá acceso directo a dichos empleados para los propósitos de la formación. Por lo tanto, la formación 
+que actualmente reciben los empleados que trabajan para socios de negocios se realizará, normalmente, 
+por los socios o por terceros para tal fin. Es importante que los empleados que trabajan para socios 
+de negocios que podrían representar para la organización más que un riesgo bajo de soborno sean 
+conscientes de las cuestiones y reciban formación destinada a reducir razonablemente este riesgo. Por 
+lo tanto, el apartado 7.3 requiere que la organización, como mínimo, identifique los socios de negocios 
+a cuyos empleados debería proporcionarse formación antisoborno, el contenido mínimo que debería 
+tener dicha formación, y la forma en que debería llevarse a cabo. La formación puede proporcionarse 
+por el mismo socio, por otras partes designadas o, si así lo decide la organización, por ella misma. La 
+organización puede comunicar estas obligaciones a sus socios de negocios de distintas formas, incluso 
+como parte de acuerdos contractuales.
+A.10	Debida diligencia
+A.10.1	 El objetivo de realizar la debida diligencia sobre determinadas transacciones, proyectos, 
+actividades, socios de negocios, o personal de una organización es evaluar el alcance, la escala y la 
+naturaleza de más que un riesgo bajo de soborno identificado como parte de la evaluación del riesgo 
+de la organización (4.5). También tiene el objetivo de actuar como un control específico adicional en 
+la prevención y detección del riesgo de soborno, e informar la decisión de la organización sobre la 
+﻿
+Traducción oficial/Official translation/Traduction officielle
+32
+© ISO 2016 – Todos los derechos reservados
+Licensed to SOLUCIONES TECNOLÓGICAS EN GESTIÓN S.C. / FRANCISCO GUTIÉRREZ (fgutierrez@stratega.biz) 
+ISO Store Order: OP-561974 / Downloaded: 2021-11-11 
+Single user licence only, copying and networking prohibited.
+﻿
+ISO 37001:2016 (traducción oficial)
+conveniencia de posponer, suspender o revisar dichas transacciones, proyectos o las relaciones con los 
+socios de negocios o el personal.
+A.10.2	 Los factores que pueden ser de utilidad a la organización para evaluar la relación con proyectos, 
+transacciones y actividades incluyen:
+a)	 estructura, naturaleza y complejidad (por ejemplo, ventas directas o indirectas, nivel de descuento, 
+premios por contrato y procedimientos por licitación);
+b)	 mecanismos de financiación y pagos;
+c)	
+alcance del compromiso de la organización y recursos disponibles;
+d)	 nivel de control y visibilidad;
+e)	 socios de negocios y otras terceras partes involucradas (incluyendo funcionarios públicos);
+f)	
+vínculos entre las partes en e) y funcionarios públicos;
+g)	 competencia y calificaciones de las partes involucradas;
+h)	 reputación del cliente;
+i)	
+ubicación;
+j)	
+reportajes en el mercado o en la prensa.
+A.10.3	 En relación con la debida diligencia sobre los socios de negocios:
+a)	 los factores que pueden ser de utilidad a la organización para evaluar la relación con un socio de 
+negocios incluyen:
+1)	 si el socio de negocios es una entidad legítima, con base en indicadores tales como documentos 
+de registro de la empresa, cuentas anuales presentadas, número de identificación fiscal, 
+cotización en la bolsa de valores;
+2)	 si el socio de negocios tiene las calificaciones, experiencia y los recursos necesarios para llevar 
+a cabo el negocio para el que se le ha contratado;
+3)	 si el socio de negocios tiene un sistema de gestión antisoborno y el alcance del mismo;
+4)	 si el socio de negocios tiene una reputación de soborno, fraude, deshonestidad o faltas graves 
+de conducta similares, o que ha sido investigado, declarado culpable, sancionado o inhabilitado 
+por soborno o conducta criminal similar;
+5)	 y si la identidad de los accionistas (incluyendo los propietarios beneficiarios finales) y de la alta 
+dirección del socio de negocios:
+i)	
+tienen una reputación de soborno, de fraude, de deshonestidad o de faltas de conducta 
+similares;
+ii)	 han sido investigados, condenados, sancionados o inhabilitados por soborno o conductas 
+criminales similares;
+iii)	 tiene algún vínculo directo o indirecto con clientes o clientes de la organización o con algún 
+funcionario público pertinente que pudieran dar lugar al soborno (esto incluiría a personas 
+﻿
+Traducción oficial/Official translation/Traduction officielle
+© ISO 2016 – Todos los derechos reservados
+33
+Licensed to SOLUCIONES TECNOLÓGICAS EN GESTIÓN S.C. / FRANCISCO GUTIÉRREZ (fgutierrez@stratega.biz) 
+ISO Store Order: OP-561974 / Downloaded: 2021-11-11 
+Single user licence only, copying and networking prohibited.
+﻿
+ISO 37001:2016 (traducción oficial)
+que no siendo los propios funcionarios públicos, puedan estar directa o indirectamente 
+relacionados con los funcionarios públicos, los candidatos a funcionarios públicos, etc.);
+6)	 la estructura de los acuerdos de transacciones y pagos;
+b)	 la naturaleza, el tipo y el alcance de la debida diligencia realizada dependerán de factores tales 
+como la capacidad de la organización para obtener información suficiente, el costo de la obtención 
+de información, y, en la medida de lo posible del riesgo de soborno que plantea la relación;
+c)	
+los procedimientos de debida diligencia implementados por la organización sobre sus socios de 
+negocios deberían ser consistentes para niveles de riesgo de soborno similares (es más probable 
+que los socios de negocios con un alto riesgo de soborno y que actúan en lugares o mercados en 
+los que existe un alto riesgo de soborno requieran un nivel significativamente mayor de debida 
+diligencia que los socios de negocios con bajo riesgo de soborno y que actúan en lugares o mercados 
+en los que existe un riesgo bajo de soborno);
+d)	 diferentes tipos de socios de negocios son propensos a requerir diferentes niveles de debida 
+diligencia, por ejemplo:
+1)	 desde la perspectiva de la posible responsabilidad legal y financiera de la organización, los 
+socios de negocios suponen un mayor riesgo de soborno para la organización cuando actúan en 
+nombre de la organización o en su beneficio que cuando suministran productos o servicios a la 
+organización. Por ejemplo, un agente involucrado en ayudar a una organización a obtener una 
+adjudicación del contrato podría pagar un soborno a un director del cliente de la organización 
+para ayudar a la organización a ganar el contrato, pudiendo dar lugar a que la organización sea 
+responsable de la conducta corrupta del agente. Como consecuencia, la debida diligencia de la 
+organización sobre el agente probablemente será lo más completa posible. Por otra parte, un 
+proveedor que venda equipos o material a la organización y que no tenga ninguna implicación 
+con los clientes de la organización o funcionarios públicos relevantes para las actividades de la 
+organización tendrá menor capacidad para pagar un soborno en nombre de la organización o 
+para su beneficio y, por tanto, el nivel de debida diligencia requerido para ese proveedor podría 
+ser más bajo;
+2)	 el nivel de influencia que la organización tiene sobre sus socios de negocios también afecta 
+la capacidad de la organización para obtener la información directamente de aquellos socios 
+de negocios como parte de su debida diligencia. Puede ser relativamente fácil para una 
+organización que requiere que sus agentes y socios de alianzas empresariales, proporcionar 
+amplia información sobre sí mismos como parte de un examen previo antes de que la 
+organización se comprometa a trabajar con ellos, ya que la organización tiene un grado de 
+elección sobre con quien se contrae en esta situación. Sin embargo, puede ser más difícil para 
+una organización que requiere que el consumidor o el cliente proporcione información sobre 
+sí mismo o para que rellenen cuestionarios de debida diligencia. Esto podría deberse a que la 
+organización no tendría suficiente influencia sobre el cliente o los consumidores para poder 
+hacerlo (por ejemplo, cuando la organización está involucrada en una licitación para proveer 
+servicios al cliente);
+e)	 la debida diligencia llevada a cabo por la organización sobre sus socios de negocios puede incluir, 
+por ejemplo:
+1)	 enviar al socio de negocios un cuestionario en donde se le solicite responder las cuestiones 
+planteadas en el apartado A.10.3 a);
+2)	 buscar en la página web del socio de negocios, sus accionistas y la alta dirección para iden­
+tificar cualquier información relacionada con el soborno;
+3)	 buscar información apropiada empleando recursos de la administración, judiciales e 
+internacionales;
+4)	 verificar las listas de inhabilitación a disposición del público que relacionan las organizaciones 
+que tienen excluida o restringida su capacidad para contratar con entidades públicas o 
+﻿
+Traducción oficial/Official translation/Traduction officielle
+34
+© ISO 2016 – Todos los derechos reservados
+Licensed to SOLUCIONES TECNOLÓGICAS EN GESTIÓN S.C. / FRANCISCO GUTIÉRREZ (fgutierrez@stratega.biz) 
+ISO Store Order: OP-561974 / Downloaded: 2021-11-11 
+Single user licence only, copying and networking prohibited.
+﻿
+ISO 37001:2016 (traducción oficial)
+gubernamentales, facilitadas por los gobiernos nacionales o locales o instituciones multila­
+terales, como el Banco Mundial;
+5)	 investigar en otras partes apropiadas sobre la reputación ética del socio de negocios;
+6)	 nombrar a otras personas u organizaciones con experiencia relevante para ayudar en el 
+proceso de debida diligencia;
+f)	
+formular preguntas adicionales al socio de negocios, sobre la base de los resultados de la debida 
+diligencia inicial (por ejemplo, para explicar cualquier información adversa).
+A.10.4	 La debida diligencia no es una herramienta perfecta. La ausencia de información negativa no 
+significa necesariamente que el socio de negocios no represente un riesgo de soborno. La información 
+negativa no significa necesariamente que el socio de negocios represente un riesgo para el soborno. Sin 
+embargo, los resultados deben evaluarse con cuidado y el juicio racional que realice la organización debe 
+basarse en los datos disponibles. La intención general es que la organización haga preguntas razonables 
+y proporcionadas sobre el socio de negocios, teniendo en cuenta las actividades que el socio de negocios 
+pondría en práctica y el riesgo de soborno inherente a estas actividades, a fin de formar un juicio 
+razonable sobre el nivel de riesgo de soborno al que la organización se expone si trabaja con el socio de 
+negocios.
+A.10.5	 La debida diligencia sobre el personal se cubre en el apartado A.8.1.
+A.11	Controles financieros
+Los controles financieros se refieren a los sistemas de gestión y procesos que implementa la organi­
+zación para gestionar sus transacciones financieras correctamente y para registrar estas transacciones 
+con precisión, de forma completa y de manera oportuna. Dependiendo del tamaño y de las transacciones 
+de la organización, los controles financieros implementados por una organización que podrían reducir 
+el riesgo de soborno podrían incluir, por ejemplo:
+a)	 la implementación de una separación de funciones, de tal manera que la misma persona no pueda 
+iniciar y aprobar un pago;
+b)	 la implementación de niveles de ascenso hacia un cargo con autoridad apropiada para la aproba­ción 
+de pagos (para que las transacciones más grandes requieran la aprobación de la dirección al más 
+alto nivel);
+c)	
+la verificación de que el beneficiario de la designación y el trabajo o los servicios llevados a cabo 
+han sido aprobado por los mecanismos de aprobación pertinentes de la organización;
+d)	 la necesidad de que se requieran, al menos, dos firmas para las aprobaciones de los pagos;
+e)	 el requerimiento de que la documentación adecuada se adjunte a las aprobaciones de pago;
+f)	
+la restricción del uso de dinero en efectivo y la implementación de métodos de control de caja 
+eficaces;
+g)	 el requerimiento de que las categorizaciones de pago y las descripciones en las cuentas sean claras 
+y precisas;
+h)	 la implementación de una revisión periódica de la gestión de las transacciones financieras 
+significativas;
+i)	
+la implementación de auditorías financieras periódicas e independientes en las que se cambien, de 
+forma regular, la persona o la organización que lleva a cabo la auditoría.
+﻿
+Traducción oficial/Official translation/Traduction officielle
+© ISO 2016 – Todos los derechos reservados
+35
+Licensed to SOLUCIONES TECNOLÓGICAS EN GESTIÓN S.C. / FRANCISCO GUTIÉRREZ (fgutierrez@stratega.biz) 
+ISO Store Order: OP-561974 / Downloaded: 2021-11-11 
+Single user licence only, copying and networking prohibited.
+﻿
+ISO 37001:2016 (traducción oficial)
+A.12	Controles no financieros
+Los controles no financieros se refieren a los sistemas de gestión y a los procesos que implementa 
+la organización para ayudar a asegurar que los aspectos comerciales, los relativos a las compras, 
+operaciones y otros aspectos no financieros, relacionados con sus actividades, se gestionan de 
+forma apropiada. Dependiendo del tamaño de la organización y de las transacciones, los controles de 
+compras, los operacionales, comerciales y otros controles no financieros, que al implementarse en una 
+organización, podrían reducir el riesgo de soborno, pueden incluir, por ejemplo, los siguientes:
+a)	 el uso de contratistas, subcontratistas, proveedores y consultores que han sido sometidos a un 
+proceso de precalificación bajo el cual se evalúa la probabilidad de su participación en un soborno; 
+este proceso es probable que incluya la debida diligencia del tipo especificado en el Capítulo A.10;
+b)	 evaluar:
+1)	 la necesidad y la legitimidad de que los servicios sean suministrados por un socio de negocios 
+(excluyendo los clientes y los consumidores) de la organización,
+2)	 si los servicios se llevan a cabo correctamente; y;
+3)	 si los pagos que se vayan a realizar al socio de negocios son razonables y proporcionales 
+a los servicios. Esto es particularmente importante para evitar así el riesgo de que el socio 
+de negocios utilice parte del pago realizado por la organización para pagar un soborno en 
+nombre de o en beneficio de la organización. Por ejemplo, si un agente ha sido designado por la 
+organización para ayudar a las ventas y se le va a pagar una comisión o un honorario contin­
+gente por la adjudicación de un contrato a la organización, la organización necesita estar 
+razonablemente segura de que el pago de la comisión es razonable y proporcional al servicio 
+legítimo que realmente llevo a cabo el agente, tomando en cuenta el riesgo que asume el agente 
+en caso de que no se adjudique el contrato. Si se paga una comisión u honorario contingente 
+desproporcionado, se incrementa el riesgo de que parte de él pueda utilizarse por el agente 
+para inducir a un funcionario público o a un empleado del cliente de la organización a que 
+adjudique el contrato a la organización. La organización también puede solicitar que su socio 
+de negocios entregue documentación que demuestre que los servicios han sido suministrados;
+c)	
+siempre que sea posible y razonable, la adjudicación de contratos se dé sólo después de un 
+proceso justo y transparente de licitación competitiva, en el que hayan participado, al menos, tres 
+competidores;
+d)	 que se requieran, al menos, dos personas para evaluar las ofertas y aprobar la adjudicación de un 
+contrato;
+e)	 la implementación de una separación de funciones, de tal manera que el personal que aprueba la 
+adjudicación de un contrato sea diferente del que solicita la adjudicación del contrato y sea de un 
+departamento o función diferente del que gestiona el contrato o aprueba el trabajo realizado en 
+virtud del contrato;
+f)	
+el requerimiento de la firma de, al menos, dos personas en los contratos y en los documentos que 
+cambian los términos de un contrato o que aprueban los trabajos emprendidos o los suministros 
+proporcionados en virtud del contrato;
+g)	 la supervisión por parte del más alto nivel de la dirección de las transacciones que potencialmente 
+tienen alto riesgo de soborno;
+h)	 proteger la integridad de las ofertas y otra información sensible a precios, limitando el acceso a las 
+personas apropiadas;
+i)	
+proporcionando herramientas y plantillas adecuadas para ayudar al personal (por ejemplo, una 
+guía práctica sobre qué hacer y qué no hacer, escalas de aprobación, listas de control, formularios, 
+flujos de trabajo de TI).
+NOTA	
+Otros ejemplos de controles y orientación se pueden encontrar en la Norma ISO 19600.
+﻿
+Traducción oficial/Official translation/Traduction officielle
+36
+© ISO 2016 – Todos los derechos reservados
+Licensed to SOLUCIONES TECNOLÓGICAS EN GESTIÓN S.C. / FRANCISCO GUTIÉRREZ (fgutierrez@stratega.biz) 
+ISO Store Order: OP-561974 / Downloaded: 2021-11-11 
+Single user licence only, copying and networking prohibited.
+﻿
+ISO 37001:2016 (traducción oficial)
+A.13	Implementación del sistema de gestión antisoborno por parte de 
+organizaciones controladas y de socios de negocios
+A.13.1	Generalidades
+A.13.1.1	 La razón por la que se establecen los requisitos del apartado 8.5, es que, tanto las organiza­ciones 
+controladas, como los socios de negocios, pueden suponer un riesgo de soborno para la organización. 
+Los tipos de riesgo de soborno que la organización persigue evitar en estos casos son, por ejemplo:
+a)	 una filial de la organización que paga un soborno ocasionando que la organización pueda ser 
+responsable;
+b)	 una alianza empresarial o socio de una alianza empresarial que paga un soborno para ganar el 
+trabajo para una alianza empresarial en la que participa la organización;
+c)	
+un gerente de compras de un cliente o clientes exige un soborno a la organización a cambio de la 
+adjudicación de un contrato;
+d)	 un cliente de la organización que requiere a la organización para designar a un subcontratista 
+o proveedor específico en circunstancias en que un representante del cliente o servidor público 
+puede beneficiarse personalmente de la designación;
+e)	 un agente de la organización que paga un soborno a un director de una organización cliente, en 
+nombre de la organización;
+f)	
+un proveedor o subcontratista de la organización que paga un soborno para el gerente de compras 
+de la organización a cambio de la adjudicación de un contrato.
+A.13.1.2	 Si la organización controlada o socio de negocios ha implementado controles antisoborno en 
+relación con estos riesgos, el consiguiente riesgo de soborno para la organización, normalmente, se reduce.
+A.13.1.3	 El requisito 8.5 distingue entre aquellas entidades sobre las que la organización tiene el 
+control, y aquellos sobre las que no lo tiene. Para los efectos de este requisito, una organización tiene 
+control sobre otra organización, si controla directa o indirectamente la gestión de la organización. Una 
+organización puede tener control, por ejemplo, sobre una subsidiaria, alianza empresarial o consorcio 
+a través del voto de mayoría en el consejo directivo, o por medio de una participación mayoritaria. La 
+organización no tiene control sobre otra organización a los efectos de este requisito por el simple hecho 
+de que coloque una gran cantidad de trabajo a esa otra organización.
+A.13.2	Organizaciones controladas
+A.13.2.1	 Es razonable esperar que la organización requiera a cualquier otra organización a la que 
+controle que aquella implemente controles antisoborno razonables y proporcionales. Esto bien podría 
+controlarse por la organización implementando el mismo sistema de gestión antisoborno que se 
+implementa en la organización, o por la organización controlada implementando sus propios controles 
+específicos antisoborno. Estos controles deberían ser razonables y proporcionados teniendo en cuenta 
+los riesgos de soborno que enfrenta la organización controlada, teniendo en cuenta la evaluación del 
+riesgo de soborno realizada de conformidad con el apartado 4.5.
+A.13.2.2	 Cuando un socio de negocios es controlado por la organización (por ejemplo, una alianza 
+empresarial sobre la que la organización tiene el control de la gestión), ese socio de negocios controlado 
+estaría incluido en los requisitos del apartado 8.5.1.
+﻿
+Traducción oficial/Official translation/Traduction officielle
+© ISO 2016 – Todos los derechos reservados
+37
+Licensed to SOLUCIONES TECNOLÓGICAS EN GESTIÓN S.C. / FRANCISCO GUTIÉRREZ (fgutierrez@stratega.biz) 
+ISO Store Order: OP-561974 / Downloaded: 2021-11-11 
+Single user licence only, copying and networking prohibited.
+﻿
+ISO 37001:2016 (traducción oficial)
+A.13.3	Socios de negocios no controlados
+A.13.3.1	 Con respecto a los socios de negocios que no son controlados por la organización, la 
+organización puede no necesitar tomar las medidas requeridas por el apartado 8.5.2 para requerir la 
+implementación de controles antisoborno por parte del socio de negocios cuando:
+a)	 el socio de negocios no representa ningún riesgo o representa un bajo riesgo de soborno; o
+b)	 el socio de negocios plantea más que un riesgo bajo de soborno, pero los controles que podrían 
+implementarse por el socio de negocios no ayudarían a mitigar el riesgo relevante (no tendría 
+ningún sentido el insistir en que el socio de negocios implemente controles que no ayudarían. Sin 
+embargo, en este caso, se esperaría que la organización tenga en cuenta este factor en su evaluación 
+de riesgos, con el fin de informar sobre la decisión con respecto a cómo y si procede con la relación).
+Esto refleja la razonabilidad y la proporcionalidad de este documento.
+A.13.3.2	 Si la evaluación del riesgo de soborno (véase 4.5) o la debida diligencia (véase 8.2) llega a la 
+conclusión de que el socio de negocios no controlado plantea más que un riesgo bajo de soborno, y que 
+los controles antisoborno implementados por el socio de negocios ayudarían a mitigar este riesgo de 
+soborno, entonces la organización debería tomar las siguientes medidas adicionales bajo 8.5.
+a)	 La organización determina si el socio de negocios tiene en su lugar controles antisoborno adecua­dos 
+que gestionen el riesgo de soborno relevante. La organización debería tomar esta deter­minación 
+después de realizar la debida diligencia (véase el Capítulo A.10). La organización está intentando 
+verificar que estos controles gestionan el riesgo de soborno relevante a la transacción entre la 
+organización y el socio de negocios. La organización no necesita verificar que el socio de negocios 
+posea controles sobre sus otros riesgos de soborno. Debe tenerse en cuenta que, tanto el alcance 
+de los controles, como las medidas que la organización necesita dar para verificar esos controles, 
+deberían ser razonables y proporcionales al riesgo de soborno relevante. Si la organización ha 
+determinado, tanto como sea razonablemente exigible, que el socio de negocios tiene en marcha 
+controles apropiados, entonces los requisitos del apartado 8.5 se abordan en relación con ese socio 
+de negocios. Véase el apartado A.13.3.4 para comentarios sobre tipos de controles apropiados.
+b)	 Si la organización identifica que el socio de negocios no tiene en su lugar procedimientos de control 
+antisoborno apropiados que gestionen los riesgos de soborno pertinentes, o no es posible verificar 
+que tenga esos controles en su lugar de trabajo, la organización llevará a cabo las siguientes 
+medidas adicionales.
+1)	 Si es posible (véase A.13.3.3) hacerlo, la organización requerirá al socio de negocios que 
+implemente controles antisoborno (véase A.13.3.4) en relación con la transacción, proyecto o 
+actividad correspondiente.
+2)	 Cuando no sea posible (véase. A.13.3.3) exigir que el socio de negocios implemente controles 
+antisoborno, la organización tomará este factor en cuenta al evaluar el riesgo de soborno 
+que conllevan los socios de negocios y al gestionar dichos riesgos. Esto no significa que 
+la organización no puede seguir adelante con la relación o transacción. Sin embargo, la 
+organización debería considerar, como parte de la evaluación del riesgo de soborno, la 
+probabilidad de que el socio de negocios esté involucrado en el soborno y la organización 
+debería tomar en cuenta la ausencia de tales controles al evaluar el riesgo general de soborno. 
+Si la organización considera que los riesgos de soborno que conlleva este socio de negocios 
+son inaceptablemente altos, y el riesgo de soborno no puede reducirse por otros medios (por 
+ejemplo, la reestructuración de la transacción), entonces se aplicarán las disposiciones del 
+apartado 8.8.
+A.13.3.3	 Si es o no es factible que la organización requiera que un socio de negocios no controlado 
+implemente controles, depende de las circunstancias. Por ejemplo:
+a)	 Será factible, normalmente,  cuando la organización tenga un grado significativo de influencia 
+sobre el socio de negocios. Por ejemplo, cuando la organización designa a un agente para actuar en 
+﻿
+Traducción oficial/Official translation/Traduction officielle
+38
+© ISO 2016 – Todos los derechos reservados
+Licensed to SOLUCIONES TECNOLÓGICAS EN GESTIÓN S.C. / FRANCISCO GUTIÉRREZ (fgutierrez@stratega.biz) 
+ISO Store Order: OP-561974 / Downloaded: 2021-11-11 
+Single user licence only, copying and networking prohibited.
+﻿
+ISO 37001:2016 (traducción oficial)
+su nombre en una transacción, o nombre a un subcontratista con un gran alcance del trabajo. En 
+este caso, la organización será capaz de hacer que la implementación de controles antisoborno sea 
+una condición de compromiso.
+b)	 No será posible, normalmente,  cuando la organización no tenga un grado significativo de influencia 
+sobre el socio de negocios. Por ejemplo.
+1)	 un cliente para un proyecto;
+2)	 un subcontratista o proveedor específico designado por el cliente;
+3)	 un importante subcontratista o proveedor cuando el poder de negociación del proveedor o 
+subcontratista es mucho mayor que el de la organización (por ejemplo, cuando la organización 
+compra componentes de un proveedor importante en términos estándar de ese proveedor).
+c)	
+No será posible, normalmente,  cuando el socio de negocios no tenga los recursos o la experiencia 
+para poder implementar  controles.
+A.13.3.4	 Los tipos de controles requeridos por la organización dependerán de las circunstancias. Ellos 
+deberían ser razonables y proporcionales al riesgo de soborno, y como mínimo deberían incluir el riesgo 
+de soborno relevante dentro de su ámbito de aplicación. Dependiendo de la naturaleza del socio de 
+negocios y de la naturaleza del riesgo que supone el soborno, la organización puede, por ejemplo, seguir 
+los siguientes pasos.
+a)	 En el caso de un mayor riesgo de soborno del socio de negocios con un alcance amplio y complejo de 
+trabajo, la organización podría requerir que los socios de negocios tengan controles implemen­tados 
+equivalentes a los requeridos por este documento relevantes para el riesgo de soborno que supone 
+para la organización.
+b)	 En el caso de un socio de tamaño medio y con riesgo de soborno medio, la organización puede 
+requerir que los socios de negocios implementen algunos requisitos mínimos antisoborno en 
+relación con la transacción, tales como una política antisoborno, la formación de sus empleados, un 
+directivo con responsabilidad para el cumplimiento en relación con la transacción, control sobre 
+los pagos clave y una línea de reporte.
+c)	
+En el caso de los socios de pequeñas empresas que tienen un alcance muy específico de trabajo (por 
+ejemplo, un agente o un proveedor minorista), la organización puede requerir formación para los 
+empleados pertinentes, y los controles sobre los pagos clave, regalos y hospitalidad.
+Los controles solo necesitan operar en relación con la transacción entre la organización y el socio de 
+negocios (aunque en la práctica el socio de negocios puede tener controles establecidos en relación con 
+la totalidad de su negocio).
+Los anteriores son solo ejemplos. La cuestión importante para la organización es identificar los 
+principales riesgos de soborno en relación con la transacción con el fin de requerir, en la medida de lo 
+posible, que el socio de negocios implemente controles razonables y proporcionales sobre los princi­
+pales riesgos de soborno.
+A.13.3.5	 La organización normalmente impone estos requisitos sobre los socios de negocios no 
+controlados como una condición previa para trabajar con el socio de negocios y/o como parte del docu­
+mento contractual.
+A.13.3.6	 La organización no está obligada a verificar el pleno cumplimiento de estos requisitos por parte 
+del socio de negocios no controlado. Sin embargo, la organización debería tomar medidas razonables 
+para asegurarse de que el socio de negocios esté cumpliendo (por ejemplo, mediante la solicitud del 
+socio de negocios para proporcionar copias de sus documentos de política relevantes). En los casos de 
+alto riesgo de soborno (por ejemplo, un agente), la organización puede implementar un procedimiento 
+para  seguimiento o reporte de auditoría.
+﻿
+Traducción oficial/Official translation/Traduction officielle
+© ISO 2016 – Todos los derechos reservados
+39
+Licensed to SOLUCIONES TECNOLÓGICAS EN GESTIÓN S.C. / FRANCISCO GUTIÉRREZ (fgutierrez@stratega.biz) 
+ISO Store Order: OP-561974 / Downloaded: 2021-11-11 
+Single user licence only, copying and networking prohibited.
+﻿
+ISO 37001:2016 (traducción oficial)
+A.13.3.7	 Como los controles antisoborno pueden tomar algún tiempo para implementarse, es probable 
+que sea razonable para una organización dar tiempo a sus socios de negocios para poner en práctica este 
+tipo de controles. La organización podría seguir trabajando con ese socio de negocios en el ínterin, pero 
+la ausencia de tales controles sería un factor en la evaluación de riesgos y la debida diligencia tomada. Sin 
+embargo, la organización debería considerar que requiere el derecho a terminar el contrato o acuerdo 
+relevante si el socio de negocios no implementa de manera eficaz los controles necesarios de manera 
+oportuna.
+A.14	Compromisos antisoborno
+A.14.1	 Este requisito de obtener compromisos antisoborno solo se aplica en relación con socios de 
+negocios que representan más que un riesgo bajo de soborno.
+A.14.2	 El riesgo de soborno en relación con una transacción es probable que sea bajo, por ejemplo:
+a)	 cuando la organización compra un pequeño número de elementos de muy escasa cuantía;
+b)	 cuando la organización hace la reserva de billetes de avión o habitaciones de hotel en línea directa 
+desde las líneas aéreas y hoteles;
+c)	
+cuando la organización suministra directamente bienes o servicios de bajo valor a un cliente (por 
+ejemplo, comida, entradas para el cine, etc.).
+En estos casos, no se requiere que la organización obtenga compromisos antisoborno de estos 
+proveedores o clientes de bajo riesgo de soborno.
+A.14.3	 En el caso de un socio de negocios que plantee un bajo riesgo  de soborno, la organización 
+debería, cuando sea posible, obtener compromisos antisoborno de ese socio de negocios.
+a)	 Será posible, normalmente, exigir estos compromisos cuando la organización tenga influencia 
+sobre el socio de negocios y, por lo tanto, pueda insistir en estos compromisos. La organización 
+es probable que sea capaz de exigir estos compromisos, por ejemplo, cuando la organización haya 
+designado un agente para actuar en su nombre en una transacción, o nombre a un subcontratista 
+con un gran alcance del trabajo.
+b)	 La organización puede no tener suficiente influencia como para poder exigir estos compromisos 
+en relación con, por ejemplo, las relaciones con los principales clientes o consumidores, o cuando 
+la organización compra componentes a un proveedor importante bajo las condiciones estándar 
+del proveedor. En estos casos, la ausencia de tales disposiciones no significa que el proyecto o la 
+relación no deba seguir adelante, pero la ausencia de tal compromiso debería considerarse como un 
+factor relevante en la evaluación del riesgo de soborno y la diligencia debida tomadas bajo 4.5 y 8.3.
+A.14.4	 Estos compromisos deberían obtenerse por escrito. Podrían tratarse de documentos de 
+compromiso independientes o que formen parte de un contrato entre la organización y el socio de 
+negocios.
+A.15	Regalos, hospitalidad, donaciones y beneficios similares
+A.15.1	 La organización necesita ser consciente de que los regalos, la hospitalidad, las dona­ciones y 
+los beneficios similares pueden ser percibidos por una tercera parte (por ejemplo, un competidor, los 
+medios, un fiscal o un juez), como un soborno aún en el caso de que el donante o el receptor no tuviesen 
+la intención de sirvieran para este propósito. Por ende, un mecanismo de control útil puede ser evitar, 
+tanto como sea posible, cualquier regalo, hospitalidad, donación u otros beneficios similares que podrían 
+razonablemente percibirse por una tercera parte como un soborno.
+﻿
+Traducción oficial/Official translation/Traduction officielle
+40
+© ISO 2016 – Todos los derechos reservados
+Licensed to SOLUCIONES TECNOLÓGICAS EN GESTIÓN S.C. / FRANCISCO GUTIÉRREZ (fgutierrez@stratega.biz) 
+ISO Store Order: OP-561974 / Downloaded: 2021-11-11 
+Single user licence only, copying and networking prohibited.
+﻿
+ISO 37001:2016 (traducción oficial)
+A.15.2	 Las prestaciones mencionadas en el apartado 8.7 podrían incluir, por ejemplo:
+a)	 regalos, entretenimiento y hospitalidad;
+b)	 donaciones políticas o de caridad;
+c)	
+viajes del representante del cliente u oficiales públicos;
+d)	 gastos de promoción;
+e)	 patrocinio;
+f)	
+beneficios para la comunidad;
+g)	 formación;
+h)	 membresías a clubes;
+i)	
+favores personales;
+j)	
+información confidencial y privilegiada.
+A.15.3	 En relación con los regalos y la hospitalidad, los procedimientos implementados por la 
+organización podrían, por ejemplo, diseñarse para:
+a)	 controlar el grado y la frecuencia de los regalos y la hospitalidad a través de:
+1)	 una prohibición total de todos los regalos y la hospitalidad; o
+2)	 permitir regalos y atenciones, pero limitándolos en función de factores tales:
+i)	
+un valor máximo (que puede variar en función de la ubicación y el tipo de regalo y 
+hospitalidad);
+ii)	 la frecuencia (los regalos pequeños y los gestos pequeños de hospitalidad, si se repiten, 
+pueden alcanzar, en caso de repetirse, cantidades grandes);
+iii)	 el tiempo (por ejemplo, que no se produzcan durante o inmediatamente después de la 
+negociación de condiciones);
+iv)	 la razonabilidad (teniendo en cuenta la ubicación, el sector y la antigüedad del donante o 
+receptor);
+v)	 la identidad del destinatario (por ejemplo, las personas que están en condiciones de 
+adjudicar contratos o aprobar los permisos, certificados o pagos);
+vi)	 la reciprocidad (ninguna persona en la organización puede recibir un regalo u hospitali­dad 
+por un valor superior al valor que están autorizados a dar);
+vii)	el entorno legal y regulatorio (algunos lugares y organizaciones pueden tener las prohibi­
+ciones o controles propias del sitio);
+b)	 requerir la aprobación previa de regalos y hospitalidad cuando estos superen un valor o frecuencia 
+definidos por un director apropiado;
+c)	
+requerir que los regalos y gestos de hospitalidad por encima de un valor o frecuencia definidos 
+se hagan abiertamente, se documenten eficazmente (por ejemplo, en un registro o libro mayor de 
+cuentas), y se supervisen.
+﻿
+Traducción oficial/Official translation/Traduction officielle
+© ISO 2016 – Todos los derechos reservados
+41
+Licensed to SOLUCIONES TECNOLÓGICAS EN GESTIÓN S.C. / FRANCISCO GUTIÉRREZ (fgutierrez@stratega.biz) 
+ISO Store Order: OP-561974 / Downloaded: 2021-11-11 
+Single user licence only, copying and networking prohibited.
+﻿
+ISO 37001:2016 (traducción oficial)
+A.15.4	 En relación con las donaciones políticas o de beneficencia, patrocinio, gastos de promoción y 
+beneficios para la comunidad, los procedimientos implementados por la organización podrían, por 
+ejemplo, diseñarse para:
+a)	 prohibir los pagos destinados a influir, o que razonablemente podrían percibirse como influencia, 
+para obtener una licitación u otra decisión a favor de la organización;
+b)	 llevar a cabo la debida diligencia sobre el partido político, la organización de caridad u otro 
+receptor para determinar si son legítimos y no se les está utilizando como un canal para el soborno 
+(esto podría incluir, por ejemplo, búsquedas en internet u otras investigaciones pertinentes para 
+determinar si los gestores del partido político o de la organización de caridad tienen una reputación 
+de soborno o conductas criminales similares, o están conectados con los proyectos o clientes de la 
+organización);
+c)	
+requerir que un director designado apruebe el pago;
+d)	 exigir la divulgación pública del pago;
+e)	 asegurarse de que el pago está permitido por la ley y los reglamentos aplicables;
+f)	
+evitar hacer contribuciones inmediatamente antes, durante o inmediatamente después de la 
+negociación del contrato.
+A.15.5	 En relación con viajes del representante del cliente o de funcionarios públicos, los procedi­
+mientos implementados por la organización podrían, por ejemplo, diseñarse para:
+a)	 permitir solamente los pagos que son permitidos por los procedimientos del cliente u órgano 
+público y por leyes y regulaciones aplicables;
+b)	 permitir solamente el viaje necesario para el correcto desarrollo de las funciones del representante 
+del cliente o el funcionario público (por ejemplo, para inspeccionar los procedimientos de calidad 
+de la organización en su fábrica);
+c)	
+requerir que un director apropiado de la organización apruebe el pago;
+d)	 requerir, si es posible, que se avise a supervisor o empleador de los funcionarios públicos o a la 
+función de cumplimiento antisoborno de los viajes y la hospitalidad que se van a proporcionar;
+e)	 restringir los pagos a los viajes, alojamiento y manutención necesarios, directamente asociados con 
+un itinerario de viaje razonable;
+f)	
+limitar el entretenimiento asociado a un nivel razonable, de acuerdo con la política de la 
+organización en materia de regalos y hospitalidad;
+g)	 prohibir el pago de los gastos de los miembros de la familia o amigos;
+h)	 prohibir el pago de los gastos de vacaciones o de recreo.
+A.16	Auditoría interna
+A.16.1	 El requisito exigido en el apartado 9.2 no significa que una organización esté obligada a tener su 
+propia función de auditoría interna independiente. Requiere que la organización designe una función 
+o una persona competente e independiente con la responsabilidad adecuada para llevar a cabo esta 
+auditoría. Una organización puede utilizar a un tercero para operar la totalidad de su programa de 
+auditoría interna, o puede contratar a un tercero para implementar determinadas partes de un programa 
+existente.
+A.16.2	 La frecuencia de las auditorías dependerá de las necesidades de la organización. Es probable que 
+algunos proyectos, contratos, procedimientos, controles y sistemas sean seleccionados cada año como 
+muestra para ser auditados.
+﻿
+Traducción oficial/Official translation/Traduction officielle
+42
+© ISO 2016 – Todos los derechos reservados
+Licensed to SOLUCIONES TECNOLÓGICAS EN GESTIÓN S.C. / FRANCISCO GUTIÉRREZ (fgutierrez@stratega.biz) 
+ISO Store Order: OP-561974 / Downloaded: 2021-11-11 
+Single user licence only, copying and networking prohibited.
+﻿
+ISO 37001:2016 (traducción oficial)
+A.16.3	 La selección de la muestra puede estar basada en el riesgo, de modo que, por ejemplo, un proyecto 
+con alto riesgo de soborno se seleccione para la auditoría con una mayor prioridad que un proyecto con 
+bajo riesgo de soborno.
+A.16.4	 Las auditorías, normalmente, necesitan planificarse con antelación para que las partes relevantes 
+dispongan los documentos necesarios y el tiempo disponibles. Sin embargo, en algunos casos, la 
+organización puede considerar útil realizar una auditoría inesperada a las partes auditadas.
+A.16.5	 Si una organización tiene un órgano de gobierno, el órgano de gobierno también puede dirigir 
+la selección y la frecuencia de las auditorías de la organización según considere necesario, con el fin 
+de ejercer la independencia y ayudar a garantizar que las auditorías se dirigen a las áreas de riesgo de 
+soborno primario de la organización. El órgano de gobierno también puede requerir el acceso a todos los 
+informes de auditoría y los resultados, y que las auditorías que identifican ciertos tipos de cuestiones de 
+riesgo más altos de soborno o los indicadores de riesgo de soborno se reporten al órgano de gobierno 
+tras la finalización de las auditorías.
+A.16.6	 La intención de la auditoría es proporcionar una seguridad razonable al órgano de gobierno 
+(si existe) y a la alta dirección de que el sistema de gestión antisoborno se ha implementado y está 
+funcionando con eficacia, para ayudar a prevenir y detectar el soborno, y para proporcionar un elemento 
+de disuasión para cualquier personal potencialmente corrupto (ya que todo el personal será consciente 
+de que su proyecto o departamento podrían ser seleccionados para la auditoría).
+A.17	Información documentada
+La información documentada bajo 7.5.1 puede incluir:
+a)	 recepción de la política antisoborno por parte del personal;
+b)	 provisión de la política de lucha antisoborno a los socios de negocios que plantean más que un 
+riesgo bajo de soborno;
+c)	
+políticas, procedimientos y controles del sistema de gestión antisoborno;
+d)	 resultados de la evaluación del riesgo de soborno (véase 4.5);
+e)	 proporcionar formación antisoborno (véase 7.3);
+f)	
+debida diligencia llevada a cabo (véase 8.2);
+g)	 medidas adoptadas para implementar el sistema de gestión antisoborno;
+h)	 aprobaciones y registros de regalos, hospitalidades, donaciones y beneficios similares dados y reci­
+bidos (véase 8.7);
+i)	
+las acciones y los resultados de las inquietudes planteadas en relación con:
+1)	 cualquier debilidad del sistema de gestión antisoborno;
+2)	 incidentes sobre intentos de soborno, o sobornos supuestos o reales;
+j)	
+los resultados del seguimiento, investigación y auditoría llevados a cabo por la organización o por 
+terceros.
+A.18	Investigar y hacer frente al soborno
+A.18.1	 Este documento requiere que la organización implemente los procedimientos adecuados sobre 
+cómo investigar y hacer frente a cualquier cuestión de soborno, o incumplimientos de los controles 
+antisoborno, que se reporten, descubra o se sospechen fundadamente. La forma en que una organización 
+﻿
+Traducción oficial/Official translation/Traduction officielle
+© ISO 2016 – Todos los derechos reservados
+43
+Licensed to SOLUCIONES TECNOLÓGICAS EN GESTIÓN S.C. / FRANCISCO GUTIÉRREZ (fgutierrez@stratega.biz) 
+ISO Store Order: OP-561974 / Downloaded: 2021-11-11 
+Single user licence only, copying and networking prohibited.
+﻿
+ISO 37001:2016 (traducción oficial)
+investigue y trate con una cuestión en particular dependerá de las circunstancias. Cada situación es 
+diferente, y la respuesta de la organización debería ser razonable y proporcional a las circunstancias. 
+Un informe sobre una cuestión importante de sospecha de soborno requeriría una acción mucho más 
+urgente, importante y detallada que una infracción leve de los controles antisoborno. Las sugerencias 
+que se presentan a continuación constituyen solo una guía y no deberían ser tomadas como prescriptivas.
+A.18.2	 La función de cumplimiento debería ser preferentemente la destinataria de los informes sobre 
+sobornos supuestos o reales o sobre incumplimientos de los controles antisoborno. Si los informes van 
+en primera instancia a otra persona, entonces los procedimientos de la organización deberían exigir que 
+los informes se pasen a la función de cumplimiento tan pronto como sea posible. En algunos casos, será 
+la propia función de cumplimiento la que identifique la sospecha o la violación.
+A.18.3	 El procedimiento debería determinar quién tiene la responsabilidad de decidir cómo se investiga 
+y se trata la cuestión. Por ejemplo:
+a)	 una pequeña organización puede implementar un procedimiento en virtud del cual todas las 
+cuestiones, de cualquier magnitud, deberían ser reportados de inmediato por la función de cumpli­
+miento a la alta dirección para que la alta dirección tome decisiones sobre cómo enfrentar;
+b)	 una organización más grande puede implementar un procedimiento según el cual:
+1)	 las cuestiones menores se traten por la función de cumplimiento, con un resumen periódico de 
+todos las cuestiones menores que se realice para la alta dirección;
+2)	 las cuestiones mayores se reporten de inmediato por la función de cumplimiento a la alta 
+dirección para que ella tome decisiones sobre cómo enfrentar.
+A.18.4	 Tras la identificación de cualquier cuestión, la alta dirección o la función de cumplimiento (en 
+su caso), deberían evaluar los hechos conocidos y la potencial gravedad de la cuestión. Si es que aún no 
+disponen de suficientes hechos para tomar una decisión, deberían iniciar una investigación.
+A.18.5	 La investigación debería realizarse por una persona que no haya participado en el hecho. Podría 
+ser la función de cumplimiento, auditoría interna, otro director apropiado o un tercero apropiado. 
+La persona que investiga debería contar con la autoridad los recursos y el acceso a la alta dirección 
+apropiados para permitir que la investigación se lleve a cabo eficazmente. La persona que investigue 
+preferentemente debería haber tenido una formación o experiencia previa en la realización de una 
+investigación. La investigación debería establecer rápidamente los hechos y recoger todas las pruebas 
+necesarias, por ejemplo:
+a)	 hacer investigaciones para determinar los hechos;
+b)	 recopilar todos los documentos y pruebas pertinentes;
+c)	
+obtener testimonios de los testigos;
+d)	 siempre que sea posible y razonable, solicitar que los informes sobre el hecho realicen por escrito y 
+se firmen por las personas que los realizan.
+A.18.6	 En la realización de la investigación y de cualquier acción de seguimiento, la organización 
+necesita tener en cuenta factores relevantes. Por ejemplo:
+a)	 leyes aplicables (puede ser necesario tener asesoramiento jurídico);
+b)	 la seguridad del personal;
+c)	
+el riesgo de difamación al hacer declaraciones;
+d)	 la protección de las personas que hacen los informes y de otras personas involucradas o a las que 
+hace referencia en el informe (véase 8.9);
+﻿
+Traducción oficial/Official translation/Traduction officielle
+44
+© ISO 2016 – Todos los derechos reservados
+Licensed to SOLUCIONES TECNOLÓGICAS EN GESTIÓN S.C. / FRANCISCO GUTIÉRREZ (fgutierrez@stratega.biz) 
+ISO Store Order: OP-561974 / Downloaded: 2021-11-11 
+Single user licence only, copying and networking prohibited.
+﻿
+ISO 37001:2016 (traducción oficial)
+e)	 la potencial responsabilidad civil, penal o administrativa, las pérdidas financieras y los daños en la 
+reputación de la organización y los individuos;
+f)	
+cualquier obligación legal o beneficio para la organización en relación con el hecho de informar a 
+las autoridades;
+g)	 mantener las cuestiones y la investigación confidencial hasta que se hayan establecido los hechos;
+h)	 la necesidad de que la alta dirección requiera la plena cooperación del personal en la investigación.
+A.18.7	 Los resultados de la investigación se deberían reportar a la alta dirección o la función de 
+cumplimiento, según sea el caso. Si se informa de los resultados a la alta dirección, estos deberían 
+también ser comunicados a la función de cumplimiento antisoborno.
+A.18.8	 Una vez que la organización haya completado su investigación, y/o si tiene información 
+suficiente para poder tomar una decisión, la organización debería implementar acciones de seguimiento 
+apropiadas. Dependiendo de las circunstancias y de la gravedad de la cuestión, estos podrían incluir uno 
+o más de las siguientes opciones:
+a)	 terminar, retirarse de o modificar la participación de la organización en un proyecto, transacción o 
+contrato;
+b)	 pagar o reclamar un beneficio indebido obtenido;
+c)	
+tomar acciones disciplinarias sobre el personal responsable (que, dependiendo de la gravedad de la 
+cuestión, podría ir desde una advertencia por una falta menor a un despido por falta grave);
+d)	 notificación del asunto a las autoridades;
+e)	 si se ha producido el soborno, se tomarán acciones para evitar o hacer frente a cualesquiera 
+posibles infracciones legales (por ejemplo, contabilidad falsa que puede ocurrir cuando un 
+soborno se registra en las cuentas de forma inexacta, un delito fiscal, cuando un soborno ha sido 
+indebidamente deducido de la renta, o el lavado de dinero cuando el producto del delito es tratado).
+A.18.9	 La organización debería revisar sus procedimientos antisoborno para examinar si la cuestión 
+surgió debido a alguna deficiencia en su operación y, de ser así, debería tomar medidas inmediatas y 
+apropiadas para mejorar sus procedimientos.
+A.19	Seguimiento
+El seguimiento del sistema de gestión antisoborno puede incluir, por ejemplo, las siguientes áreas:
+a)	 eficacia de la formación;
+b)	 eficacia de los controles, por ejemplo, realizando pruebas por muestre sobre los resultados 
+obtenidos;
+c)	
+eficacia de la asignación de responsabilidades para el cumplimiento de los requisitos del sistema de 
+gestión antisoborno;
+d)	 eficacia para combatir las fallas en el cumplimiento previamente identificadas; y;
+e)	 casos en los que las auditorías internas no se lleven a cabo como estaba previsto.
+Seguimiento del desempeño del cumplimiento puede incluir, por ejemplo, las siguientes áreas:
+—	 incumplimiento y cuasi accidentes (un incidente sin efectos adversos);
+—	 los casos en que no se cumpla con los requisitos antisoborno;
+—	 los casos en los que no se consigan los objetivos; y
+﻿
+Traducción oficial/Official translation/Traduction officielle
+© ISO 2016 – Todos los derechos reservados
+45
+Licensed to SOLUCIONES TECNOLÓGICAS EN GESTIÓN S.C. / FRANCISCO GUTIÉRREZ (fgutierrez@stratega.biz) 
+ISO Store Order: OP-561974 / Downloaded: 2021-11-11 
+Single user licence only, copying and networking prohibited.
+﻿
+ISO 37001:2016 (traducción oficial)
+—	 el estado de la cultura de cumplimiento.
+NOTA	
+Véase la Norma ISO 19600.
+La organización puede, periódicamente, realizar autoevaluaciones, ya sea en toda la organización o en 
+partes de ella, para evaluar la eficacia de su sistema de gestión antisoborno (véase 9.4).
+A.20	Planificación e implementación de cambios en el sistema de gestión 
+antisoborno
+A.20.1	 La idoneidad y la eficacia del sistema de gestión antisoborno deberían ser evaluadas de forma 
+continua y regular a través de diferentes métodos, tales como: auditorías internas (véase 9.2), revisiones 
+por la función de cumplimiento antisoborno (véase 9.4), y revisión por la dirección (véase 9.3).
+A.20.2	 La organización debería considerar los resultados de tales evaluaciones para determinar si existe 
+la necesidad o la oportunidad de cambiar el sistema de gestión antisoborno.
+A.20.3	 Para ayudar a asegurar la integridad del sistema de gestión antisoborno y que se mantenga 
+su eficacia, los cambios en elementos individuales del sistema de gestión deberían tomar en cuenta la 
+dependencia y el impacto de tales cambios sobre la eficacia del sistema de gestión en su totalidad.
+A.20.4	 Cuando la organización determina la necesidad de cambios en el sistema de gestión antisoborno, 
+tales cambios deberían llevarse a cabo de una manera planificada, teniendo en cuenta lo siguiente:
+a)	 la finalidad de los cambios y sus posibles consecuencias;
+b)	 la integridad del sistema de gestión antisoborno;
+c)	
+la disponibilidad de recursos;
+d)	 la asignación o reasignación de responsabilidades y autoridades;
+e)	 la frecuencia, el alcance y el cronograma de la implementación de los cambios.
+A.20.5	 Las mejoras del sistema de gestión antisoborno como resultado de las medidas adoptadas 
+en respuesta a cualquier no conformidad (véase 10.1) y como resultado de las mejoras continuas 
+(véase 10.2) deberían llevarse a cabo bajo el mismo enfoque que se indica en el apartado A.20.4.
+A.21	Funcionarios públicos
+El término “funcionario público” (3.27) se define ampliamente en muchas leyes contra la corrupción.
+La siguiente lista no es exhaustiva y no todos los ejemplos se pueden aplicar en todas las jurisdicciones. 
+En la evaluación de sus riesgos antisoborno, una organización debería tener en cuenta las categorías de 
+funcionarios públicos con los que se relaciona o puede hacer frente.
+El término funcionario público puede incluir lo siguiente:
+a)	 titulares de cargos públicos a nivel nacional, estatal/provincial o municipal, incluidos los miembros 
+de los cuerpos legislativos, los titulares de cargos ejecutivos y los pertenecientes al poder judicial;
+b)	 responsables de los partidos políticos;
+c)	
+candidatos a cargos públicos;
+d)	 los empleados del gobierno, incluidos los empleados de los ministerios, agencias gubernamentales, 
+tribunales administrativos y las juntas públicas;
+﻿
+Traducción oficial/Official translation/Traduction officielle
+46
+© ISO 2016 – Todos los derechos reservados
+Licensed to SOLUCIONES TECNOLÓGICAS EN GESTIÓN S.C. / FRANCISCO GUTIÉRREZ (fgutierrez@stratega.biz) 
+ISO Store Order: OP-561974 / Downloaded: 2021-11-11 
+Single user licence only, copying and networking prohibited.
+﻿
+ISO 37001:2016 (traducción oficial)
+e)	 funcionarios de organizaciones internacionales públicas, tales como el Banco Mundial, Naciones 
+Unidas, Fondo Monetario Internacional, etc.;
+f)	
+los empleados de las empresas públicas, salvo que la empresa opere en condiciones comerciales 
+normales en el mercado de referencia, es decir, de forma que sea sustancialmente equivalente a la 
+de una empresa privada, sin subsidios preferenciales u otros privilegios (véase Referencia [17]).
+En muchas jurisdicciones, los familiares y allegados de los funcionarios públicos también se consideran 
+funcionarios públicos a los efectos de las leyes anticorrupción.
+A.22	Iniciativas antisoborno
+Aunque no es un requisito de este documento, la organización podría considerar útil participar 
+en iniciativas antisoborno sectoriales o de otro tipo que promuevan o publiquen buenas prácticas 
+antisoborno relacionadas con las actividades de la organización, o tener en cuenta sus recomendaciones.
+﻿
+Traducción oficial/Official translation/Traduction officielle
+© ISO 2016 – Todos los derechos reservados
+47
+Licensed to SOLUCIONES TECNOLÓGICAS EN GESTIÓN S.C. / FRANCISCO GUTIÉRREZ (fgutierrez@stratega.biz) 
+ISO Store Order: OP-561974 / Downloaded: 2021-11-11 
+Single user licence only, copying and networking prohibited.
+﻿
+ISO 37001:2016 (traducción oficial)
+Bibliografía
+[1]	
+ISO 9000, Sistemas de gestión de la calidad — Fundamentos y vocabulario
+[2]	
+ISO 9001, Sistemas de gestión de la calidad — Requisitos
+[3]	
+ISO 19011, Directrices para la auditoría de los sistemas de gestión
+[4]	
+ISO 14001, Sistemas de gestión ambiental — Requisitos con orientación para su uso
+[5]	
+ISO/IEC 17000, Evaluación de la conformidad — Vocabulario y principios generales
+[6]	
+ISO 19600, Compliance management systems — Guidelines
+[7]	
+ISO  22000, Sistemas de gestión de la inocuidad de los alimentos  — Requisitos para cualquier 
+organización en la cadena alimentaria
+[8]	
+ISO 26000, Guía de responsabilidad social
+[9]	
+ISO/IEC 27001, Information technology — Security techniques — Information security management 
+systems — Requirements
+[10]	
+ISO 31000, Risk management — Principles and guidelines
+[11]	
+ISO Guide 73, Risk management — Vocabulary
+[12]	
+ISO/IEC Guide 2, Standardization and related activities — General vocabulary
+[13]	
+BS 10500, Specification for an anti-bribery management system
+[14]	
+United Nations Convention against Corruption, New York, 2004. Available at: http://​www​.unodc​
+.org/​documents/​treaties/​UNCAC/​Publications/​Convention/​08​-50026​_E​.pdf
+[15]	
+Organization for Economic Co-operation and Development, Convention on Combating Bribery 
+of Foreign Public Officials in International Business Transactions and Related Documents, 
+Paris, 2010
+[16]	
+Organization for Economic Co-operation and Development, Good Practice Guidance on Internal 
+Controls, Ethics, and Compliance, Paris, 2010
+[17]	
+Organization for Economic Co-operation and Development, Commentaries on the Convention 
+on Combating Bribery of Foreign Public Officials in International Business Transactions, 
+21 November 1997
+[18]	
+United Nations Global Compact/Transparency International, Reporting guidance on the 10th 
+principle against corruption, 2009
+[19]	
+International Chamber of Commerce, Transparency International, United Nations Global 
+Compact and World Economic Forum, RESIST: Resisting Extortion and Solicitation in 
+International Transactions, A company tool for employee training, 2010
+[20]	
+International Chamber of Commerce, Rules on Combating Corruption, Paris, 2011
+[21]	
+Transparency International, Business Principles for Countering Bribery and associated tools, 
+Berlin, 2013
+[22]	
+Transparency International, Corruption Perceptions Index
+[23]	
+Transparency International, Bribe Payers Index
+[24]	
+World Bank, Worldwide Governance Indicators
+﻿
+Traducción oficial/Official translation/Traduction officielle
+48
+© ISO 2016 – Todos los derechos reservados
+Licensed to SOLUCIONES TECNOLÓGICAS EN GESTIÓN S.C. / FRANCISCO GUTIÉRREZ (fgutierrez@stratega.biz) 
+ISO Store Order: OP-561974 / Downloaded: 2021-11-11 
+Single user licence only, copying and networking prohibited.
+﻿
+ISO 37001:2016 (traducción oficial)
+[25]	
+International Corporate Governance Network, ICGN Statement and Guidance on Anti-Corruption 
+Practices, London, 2009
+[26]	
+World Economic Forum, Partnering Against Corruption Principles for Countering Bribery, An 
+Initiative of the World Economic Forum in Partnership with Transparency International and the 
+Basel Institute on Governance, Geneva
+[27]	
+Committee of the Sponsoring Organizations of the Treadway Commission (COSO): Internal 
+Control – Integrated Framework, May 2013
+﻿
+Traducción oficial/Official translation/Traduction officielle
+© ISO 2016 – Todos los derechos reservados
+49
+Licensed to SOLUCIONES TECNOLÓGICAS EN GESTIÓN S.C. / FRANCISCO GUTIÉRREZ (fgutierrez@stratega.biz) 
+ISO Store Order: OP-561974 / Downloaded: 2021-11-11 
+Single user licence only, copying and networking prohibited.
+﻿
+ISO 37001:2016 (traducción oficial)
+﻿
+© ISO 2016 – Todos los derechos reservados
+ICS 03.100.70; 03.100.01
+Precio basado en 47 páginas
+Licensed to SOLUCIONES TECNOLÓGICAS EN GESTIÓN S.C. / FRANCISCO GUTIÉRREZ (fgutierrez@stratega.biz) 
+ISO Store Order: OP-561974 / Downloaded: 2021-11-11 
+Single user licence only, copying and networking prohibited.

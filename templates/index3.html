@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Analizador ISO 37001</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <!-- Agregar Bootstrap -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body class="bg-gray-100 text-gray-900">
+
+  <!-- Encabezado -->
+  <header class="bg-blue-800 text-white py-6 shadow">
+    <div class="max-w-6xl mx-auto px-4">
+      <h1 class="text-3xl font-bold">Analizador de Casos - Norma ISO 37001</h1>
+      <p class="text-sm mt-1">Sube la norma, analiza un caso y recibe una evaluación profesional</p>
+      <p class="text-sm mt-1">Universidad Central del Ecuador | Grupo 9 - Legislación Informática</p>
+    </div>
+  </header>
+
+  <main class="max-w-4xl mx-auto py-10 px-4 space-y-10">
+
+    <!-- Subida del PDF -->
+    <section class="bg-white rounded-2xl shadow-md p-6">
+      <h2 class="text-xl font-semibold mb-4">1. Subir documento de la norma ISO 37001 (PDF)</h2>
+      <form id="isoForm" enctype="multipart/form-data" class="space-y-4">
+        <input type="file" name="file" accept=".pdf" required class="block w-full text-sm text-gray-700 file:mr-4 file:py-2 file:px-4 file:rounded-full file:border-0 file:text-sm file:font-semibold file:bg-blue-100 file:text-blue-700 hover:file:bg-blue-200"/>
+        <button type="submit" class="bg-blue-700 hover:bg-blue-800 text-white font-bold py-2 px-4 rounded-lg">
+          Subir PDF
+        </button>
+        <p id="uploadStatus" class="text-sm mt-2"></p>
+      </form>
+    </section>
+
+    <!-- Análisis del caso -->
+    <section class="bg-white rounded-2xl shadow-md p-6">
+      <h2 class="text-xl font-semibold mb-4">2. Ingresar caso de estudio</h2>
+      <textarea id="casoInput" rows="6" class="w-full border border-gray-300 rounded-lg p-3" placeholder="Describe el caso a analizar..." required></textarea>
+      <button id="analyzeBtn" class="mt-4 bg-green-700 hover:bg-green-800 text-white font-bold py-2 px-4 rounded-lg">
+        Analizar caso con IA
+      </button>
+      <div id="analysisOutput" class="mt-6 bg-gray-50 border-l-4 border-green-500 p-4 rounded-lg hidden">
+        <h3 class="font-semibold text-green-800">Análisis del Caso</h3>
+        <pre id="analysisText" class="whitespace-pre-wrap mt-2 text-sm text-gray-800"></pre>
+      </div>
+    </section>
+
+    <!-- Evaluación -->
+    <section class="bg-white rounded-2xl shadow-md p-6">
+      <h2 class="text-xl font-semibold mb-4">3. Comparar tu análisis</h2>
+      <!-- Cambié el campo a un div con contenteditable para que el texto tenga un formato mejor -->
+      <div id="respuestaUsuario" contenteditable="true" class="w-full border border-gray-300 rounded-lg p-3" placeholder="Escribe tu análisis del caso para compararlo..."></div>
+      <button id="evaluateBtn" class="mt-4 bg-purple-700 hover:bg-purple-800 text-white font-bold py-2 px-4 rounded-lg">
+        Evaluar mi análisis
+      </button>
+      <div id="evaluacionOutput" class="mt-6 bg-gray-50 border-l-4 border-purple-500 p-4 rounded-lg hidden">
+        <h3 class="font-semibold text-purple-800">Evaluación</h3>
+        <pre id="evaluacionTexto" class="whitespace-pre-wrap mt-2 text-sm text-gray-800"></pre>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- Modal de evaluación -->
+<div id="evaluationModal" class="fixed inset-0 flex items-center justify-center bg-gray-800 bg-opacity-50 hidden">
+  <div class="bg-white rounded-lg p-6 w-11/12 md:w-1/2 overflow-auto max-h-[80vh]">
+    <div class="text-center">
+      <h3 class="text-xl font-semibold text-blue-900">Evaluación Completa</h3>
+      <p class="text-lg mt-2 text-gray-600">Calificación sobre 100</p>
+
+      <!-- Calificación más alta en un círculo -->
+      <div class="flex justify-center items-center mt-4">
+        <div class="relative">
+          <div class="w-24 h-24 rounded-full bg-green-500 text-white flex items-center justify-center text-4xl font-bold" id="aiRatingCircle"></div>
+          <p class="mt-2 text-sm text-gray-600" id="aiRatingText">IA</p>
+        </div>
+        <div class="relative ml-6">
+          <div class="w-24 h-24 rounded-full bg-red-500 text-white flex items-center justify-center text-4xl font-bold" id="userRatingCircle"></div>
+          <p class="mt-2 text-sm text-gray-600" id="userRatingText">Usuario</p>
+        </div>
+      </div>
+
+      <p class="mt-2 text-gray-600">Confianza de la IA: <span id="aiConfidence"></span>%</p>
+      <p class="mt-1 text-gray-600">Confianza del Usuario: <span id="userConfidence"></span>%</p>
+
+      <h4 class="mt-4 text-lg font-medium">Fortalezas y Debilidades:</h4>
+      <div class="text-gray-700 mt-2">
+        <strong>IA:</strong> <span id="aiStrengths"></span> | <span id="aiWeaknesses"></span>
+      </div>
+      <div class="text-gray-700 mt-2">
+        <strong>Usuario:</strong> <span id="userStrengths"></span> | <span id="userWeaknesses"></span>
+      </div>
+
+      <h4 class="mt-4 text-lg font-medium">Recomendaciones:</h4>
+      <p id="improvementRecommendation" class="text-gray-600 mt-2"></p>
+
+      <div class="mt-6">
+        <button class="w-full bg-red-500 text-white py-2 rounded-lg hover:bg-red-400 focus:outline-none" onclick="closeModal()">Cerrar</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+  <!-- Spinner de carga -->
+  <div id="loadingSpinner" class="fixed inset-0 flex items-center justify-center bg-gray-800 bg-opacity-50 hidden">
+    <div class="w-16 h-16 border-t-4 border-yellow-500 border-solid rounded-full animate-spin"></div>
+  </div>
+
+  <!-- Scripts -->
+  <script>
+    const session_id = Math.random().toString(36).substring(2, 10);
+
+    document.getElementById('isoForm').addEventListener('submit', async (e) => {
+      e.preventDefault();
+      const formData = new FormData(e.target);
+      formData.append('session_id', session_id);
+
+      const response = await fetch('/upload-iso', {
+        method: 'POST',
+        body: formData
+      });
+
+      const result = await response.json();
+      document.getElementById('uploadStatus').textContent = result.message || result.error;
+    });
+
+    document.getElementById('analyzeBtn').addEventListener('click', async () => {
+      showLoadingSpinner();  // Mostrar spinner
+      const caso = document.getElementById('casoInput').value;
+
+      const response = await fetch('/analyze-case', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ caso, session_id })
+      });
+
+      const result = await response.json();
+      const analysisDiv = document.getElementById('analysisOutput');
+      const analysisText = document.getElementById('analysisText');
+
+      if (result.analysis) {
+        analysisText.textContent = result.analysis;
+        analysisDiv.classList.remove('hidden');
+      } else {
+        analysisText.textContent = result.error || 'Ocurrió un error.';
+        analysisDiv.classList.remove('hidden');
+      }
+      hideLoadingSpinner();  // Ocultar spinner
+    });
+
+    document.getElementById('evaluateBtn').addEventListener('click', async () => {
+      showLoadingSpinner();  // Mostrar spinner
+      const userResponse = document.getElementById('respuestaUsuario').textContent;
+
+      const response = await fetch('/evaluate-response', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ userResponse, session_id })
+      });
+
+      const result = await response.json();
+      const evalDiv = document.getElementById('evaluacionOutput');
+      const evalText = document.getElementById('evaluacionTexto');
+
+      evalText.textContent = JSON.stringify(result, null, 2);
+      evalDiv.classList.remove('hidden');
+
+      // Mostrar modal con resultados completos
+      showModal(result);
+      hideLoadingSpinner();  // Ocultar spinner
+    });
+
+    // Función para mostrar el modal
+function showModal(data) {
+  hideLoadingSpinner();
+
+  // Obtener y convertir las calificaciones a base 100
+  const aiRating = data.calificacionIA * 10;
+  const userRating = data.calificacionUsuario * 10;
+
+  // Mostrar la calificación más alta en el círculo grande
+  if (aiRating >= userRating) {
+    document.getElementById('aiRatingCircle').textContent = aiRating;
+    document.getElementById('userRatingCircle').textContent = userRating;
+  } else {
+    document.getElementById('aiRatingCircle').textContent = userRating;
+    document.getElementById('userRatingCircle').textContent = aiRating;
+  }
+
+  // Resto de la información
+  document.getElementById('aiConfidence').textContent = data.confianzaIA;
+  document.getElementById('userConfidence').textContent = data.confianzaUsuario;
+  document.getElementById('aiStrengths').textContent = data.fortalezasIA.join(', ');
+  document.getElementById('aiWeaknesses').textContent = data.debilidadesIA.join(', ');
+  document.getElementById('userStrengths').textContent = data.fortalezasUsuario.join(', ');
+  document.getElementById('userWeaknesses').textContent = data.debilidadesUsuario.join(', ');
+  document.getElementById('improvementRecommendation').textContent = data.recomendacionMejora;
+
+  document.getElementById('evaluationModal').classList.remove('hidden');
+}
+
+
+
+
+    // Función para cerrar el modal
+    function closeModal() {
+      document.getElementById('evaluationModal').classList.add('hidden');
+    }
+
+    // Mostrar spinner
+    function showLoadingSpinner() {
+      document.getElementById('loadingSpinner').classList.remove('hidden');
+    }
+
+    // Ocultar spinner
+    function hideLoadingSpinner() {
+      document.getElementById('loadingSpinner').classList.add('hidden');
+    }
+  </script>
+
+</body>
+</html>

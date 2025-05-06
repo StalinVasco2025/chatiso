@@ -1,0 +1,44 @@
+Aquí está el análisis del caso de estudio, estructurado como se solicita:
+
+**1. Resumen del Caso**
+
+CIS, una empresa constructora, participa en una licitación pública para la construcción de una carretera. El gerente de proyectos de CIS es abordado por un intermediario que ofrece asegurar la victoria de la licitación a cambio de una "contribución" económica, sugiriendo una situación de soborno. El gerente, bajo presión y con conocimiento de posibles prácticas similares por competidores, considera la propuesta, creando un dilema ético y de cumplimiento.
+
+**2. Términos Clave Identificados en el Caso y su Relación con la Norma**
+
+*   **Soborno:** La "contribución" económica solicitada por el intermediario para influir en el resultado de la licitación se define claramente como soborno según la definición genérica de ISO 37001 (3.1): "oferta, promesa, entrega, aceptación o solicitud de una ventaja indebida de cualquier valor... como incentivo o recompensa para que una persona actúe o deje de actuar en relación con el desempeño de las obligaciones de esa persona." Además, esto viola las leyes antisoborno.
+*   **Licitación Pública:** Implica interacción con funcionarios públicos (3.27), lo que aumenta el riesgo de soborno.
+*   **Intermediario:** Actúa como un socio de negocios (3.26), ya que CIS planifica establecer un vinculo con la tercera parte para asegurar el contrato. Este tercero plantea un riesgo significativo ya que es una persona con "influencia" que puede exponer a la organización a riesgos de soborno
+*   **Gerente de Proyectos:** Es un "personal" de la organización (3.25). Su decisión tiene un impacto directo en la posible participación de la empresa en un acto de soborno.
+*   **Presión Comercial:** La "importancia del contrato" para la empresa representa una presión que puede llevar a decisiones poco éticas y a la violación de las leyes antisoborno.
+*   **Falta de Transparencia:** El "proceso de evaluación se percibe como poco transparente," lo cual incrementa la probabilidad de actos de soborno.
+*   **Riesgo:** la organización, al estar expuesta a las prácticas de soborno que ejercen sus competidores, la presionan a realizar malas practicas. Por ello la organización debe identificar, analizar y evaluar el riesgo según lo establecido en el punto 4.5.1.
+
+**3. Secciones Relevantes de la Norma ISO 37001 Aplicables al Caso**
+
+*   **4.1 Comprensión de la organización y de su contexto:**  CIS necesita analizar su contexto, incluyendo el sector (construcción, conocido por riesgos de corrupción en licitaciones públicas), su modelo de negocio (dependiente de contratos gubernamentales), y las interacciones con funcionarios públicos.
+*   **4.5 Evaluación del riesgo de soborno:** CIS necesita llevar a cabo una evaluación formal del riesgo de soborno, que identifique y evalúe el riesgo asociado a las licitaciones públicas, la interacción con intermediarios, y la presión para ganar contratos.
+*   **5.1 Liderazgo y compromiso:** La alta dirección de CIS debe demostrar un fuerte compromiso con la prevención del soborno, aprobando una política antisoborno clara y asignando recursos adecuados para su implementación. Deben comunicar internamente la importancia del cumplimiento.
+*   **5.2 Política antisoborno:** CIS debe tener una política antisoborno que prohíba explícitamente el soborno, requiera el cumplimiento de las leyes, y proporcione un marco para establecer objetivos antisoborno.
+*   **5.3 Roles, responsabilidades y autoridades en la organización:** Se debe asignar una función de cumplimiento antisoborno con autoridad e independencia para supervisar el sistema de gestión.
+*   **7.2 Competencia:** El personal, incluyendo el gerente de proyectos, debe ser competente en materia de prevención del soborno, con capacitación y concientización adecuadas.
+*   **8.2 Debida Diligencia:** Se debe aplicar la debida diligencia a los socios de negocios, en este caso al intermediario, para evaluar el riesgo de soborno.
+*   **8.9 Planteamiento de inquietudes:** Se debe establecer un mecanismo para que el gerente de proyectos pueda denunciar la propuesta del intermediario de forma confidencial y sin temor a represalias.
+*    **8.10 Investigar y abordar el soborno:**  Se deben establecer procedimientos para investigar las sospechas de soborno y tomar las medidas correctivas apropiadas.
+
+**4. Recomendaciones Específicas para Implementar un Sistema de Gestión Antisoborno Según la Norma**
+
+1.  **Compromiso de la Alta Dirección:**  La alta dirección debe declarar públicamente su compromiso con la ética y el cumplimiento, asignando recursos para la implementación de un sistema de gestión antisoborno.
+2.  **Evaluación de Riesgos Detallada:** Realizar una evaluación exhaustiva de los riesgos de soborno específicos para las operaciones de CIS, priorizando los riesgos asociados a licitaciones públicas, interacción con funcionarios públicos y uso de intermediarios.
+3.  **Política Antisoborno Robusta:** Desarrollar e implementar una política antisoborno que prohíba explícitamente el soborno en todas sus formas, incluyendo el ofrecimiento, la promesa, la entrega o la aceptación de sobornos.
+4.  **Debida Diligencia Rigurosa:** Implementar un proceso de debida diligencia para evaluar la integridad de los socios de negocios, incluyendo la verificación de antecedentes y la evaluación de su reputación.  En este caso, la debida diligencia al intermediario revelaría la alta probabilidad de involucramiento en prácticas corruptas.
+5.  **Controles Financieros y No Financieros:** Establecer controles financieros para prevenir el uso de fondos para fines ilícitos, y controles no financieros para supervisar las interacciones con funcionarios públicos y socios de negocios.
+6.  **Capacitación y Concientización:** Proporcionar capacitación periódica a todo el personal sobre la política antisoborno, las leyes aplicables y los procedimientos para denunciar sospechas de soborno.
+7.  **Canal de Denuncias Confidencial:** Establecer un canal de denuncias confidencial y anónimo para que el personal pueda informar sobre sospechas de soborno sin temor a represalias.
+8.  **Investigación Independiente:** Establecer un procedimiento para investigar las denuncias de soborno de manera independiente y objetiva.
+9.  **Acciones Correctivas y Disciplinarias:** Tomar acciones correctivas para abordar las deficiencias en el sistema de gestión antisoborno, y acciones disciplinarias contra el personal que viole la política antisoborno.
+10. **Monitoreo y Mejora Continua:**  Monitorear la efectividad del sistema de gestión antisoborno y realizar mejoras continuas para asegurar su adecuación y eficacia.
+
+**5. Conclusión**
+
+El caso de CIS ilustra la importancia de implementar un sistema de gestión antisoborno según la norma ISO 37001.  Sin un sistema robusto, la empresa es vulnerable al soborno y a las graves consecuencias legales, financieras y reputacionales que conlleva. La implementación de las recomendaciones anteriores, basadas en la norma, ayudará a CIS a prevenir, detectar y abordar el soborno de manera efectiva, promoviendo una cultura de integridad y cumplimiento. El gerente de proyectos, con la capacitación y el canal de denuncias adecuados, debería sentirse empoderado para denunciar la situación, protegiendo a la empresa de una decisión catastrófica.
